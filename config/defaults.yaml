@@ -1,0 +1,61 @@
+seed: 0 
+data:
+  annotations_path : '/workspace/tfg_hhernandez/annotations'
+  data_path : '/dataset/'
+  batch_size : 64
+  workers: 4
+  down_sampling_rate : 5 #como son 30 fps equivale a unos 0.2s
+  train : ['P_03', 'P_04', 'P_05', 'P_06', 'P_09', 'P_10', 'P_12', 'P_13', 'P_14', 'P_18', 'P_19', 'P_20']
+  val: ['P_01', 'P_02', 'P_16', 'P_17']
+  test : ['P_07', 'P_08', 'P_11','P_15']
+video_model:
+  block_size: 16 ## Si se usa 16 para timesformer y videomae y 32 para vivit
+  name: "timesformer" #vivit or videomae or timesformer
+  extract_features: False
+
+
+
+model:
+  multimodal: True
+  fusion_strategy : 'concat' #concat, mean, sum
+  get_text_features: True
+  get_object_features: True
+
+
+
+
+object_detector:
+  max_detected_objects: 4
+  object_recopilation_strategy : 'all_frames' #all_frames, 1stframe , middleframe
+  object_model: 'GDino' #GDino
+
+  object_encoder: 'vit' #vit, swin
+  extract_features: False
+  embedding_size: 768 # swin--> 1024, vit---> 768
+
+text_encoder:
+  text_model: 'Bert' # DistilBert, Bert, Roberta
+  extract_features: False
+  embedding_size: 768 # DistilBert--> 768, Bert--> 768, Roberta--> 768
+
+classifier:
+  hidden_dims: [512] # [2048, 1024] # [512, 256]
+  train: True
+  test: True
+  train_weights_path : None
+  test_weights_path :  '/results/multimodal/timesformer/GDINO/objs_text/every_two_frames/concat/vit_bert/best_epoch.pt'
+
+train_params:
+  lr : 0.0005 #0.0005
+  epochs: 20
+  dropout: 0.1
+  weight_decay: 0.1 ### Si usas sgd pon esto a 0.0001 y si usas adam ponlo a 0.3
+  save_every : 20 # Guardar cada 20 epochs
+  optimizer: 'adamw' # adamw, sgd
+  # label_smoothing : 0.2
+  # use_mixup: True
+  # mixup_alpha: 0.2
+
+save_dir: '/results/multimodal/timesformer/GDINO/objs_text/every_two_frames/concat/vit_bert'
+
+

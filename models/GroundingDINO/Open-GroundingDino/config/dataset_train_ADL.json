@@ -1,0 +1,18 @@
+{
+"train": [
+        {
+            "root": "/dataset/rgb_frames",
+            "anno": "/workspace/GroundingDINO/Open-GroundingDino/ADL/annotations/ovdg/ovdg_train.json",
+            "label_map": "/workspace/GroundingDINO/Open-GroundingDino/config/label_map_ADL.json",
+            "dataset_mode": "odvg"
+        }
+    ],
+    "val": [
+      {
+        "root": "/dataset/rgb_frames",
+        "anno": "/workspace/GroundingDINO/Open-GroundingDino/ADL/annotations/coco_format/annotations_val.json",
+        "label_map": null,
+        "dataset_mode": "coco"
+      }
+    ]
+}

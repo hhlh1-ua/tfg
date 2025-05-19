@@ -1,0 +1,6 @@
+loading checkpoint '/results/simple_MLP/timesformer/best_epoch.pt'
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00, 13.53it/s]
+***** Train Stats *******
+Top 1 Accuracy: 0.6235294117647059
+Top 5 Accuracy: 0.8352941176470589
+Mean Loss: 0.13207490987637463

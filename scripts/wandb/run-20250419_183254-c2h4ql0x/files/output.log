@@ -1,0 +1,28 @@
+Extracting video features for the train split ...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 2
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 3
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 4
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 5
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 6
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 7
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 8
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 9
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 10
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 11
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 12
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 13
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 14
+Traceback (most recent call last):
+  File "../main.py", line 160, in <module>
+    main()
+  File "../main.py", line 131, in main
+    video_model.get_features(train_ds)
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 71, in get_features
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 71, in <listcomp>
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 3286, in open
+    prefix = fp.read(16)
+KeyboardInterrupt

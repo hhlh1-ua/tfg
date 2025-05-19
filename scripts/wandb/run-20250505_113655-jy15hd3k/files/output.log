@@ -1,0 +1,42 @@
+Some weights of ViTModel were not initialized from the model checkpoint at google/vit-base-patch16-224 and are newly initialized: ['vit.pooler.dense.bias', 'vit.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Extracting object features...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 2
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 3
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 4
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 5
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 6
+Traceback (most recent call last):
+  File "../main.py", line 160, in <module>
+    main()
+  File "../main.py", line 137, in main
+    object_model([train_ds,val_ds,test_ds])
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectFeatureExtractor.py", line 55, in forward
+    inputs = self.image_processor(images=crops, return_tensors="pt")
+  File "/usr/local/lib/python3.8/dist-packages/transformers/image_processing_utils.py", line 41, in __call__
+    return self.preprocess(images, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/vit/image_processing_vit_fast.py", line 285, in preprocess
+    transformed_images = [transforms(image) for image in images]
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/vit/image_processing_vit_fast.py", line 285, in <listcomp>
+    transformed_images = [transforms(image) for image in images]
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/transforms.py", line 95, in __call__
+    img = t(img)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/transforms.py", line 354, in forward
+    return F.resize(img, self.size, self.interpolation, self.max_size, self.antialias)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/functional.py", line 470, in resize
+    return F_t.resize(img, size=output_size, interpolation=interpolation.value, antialias=antialias)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/_functional_tensor.py", line 465, in resize
+    img = interpolate(img, size=size, mode=interpolation, align_corners=align_corners, antialias=antialias)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/functional.py", line 4055, in interpolate
+    return torch._C._nn._upsample_bilinear2d_aa(input, output_size, align_corners, scale_factors)
+KeyboardInterrupt

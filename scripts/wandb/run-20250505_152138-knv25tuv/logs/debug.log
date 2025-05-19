@@ -1,0 +1,30 @@
+2025-05-05 15:21:38,198 INFO    MainThread:560 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-05-05 15:21:38,198 INFO    MainThread:560 [wandb_setup.py:_flush():68] Configure stats pid to 560
+2025-05-05 15:21:38,198 INFO    MainThread:560 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2025-05-05 15:21:38,198 INFO    MainThread:560 [wandb_setup.py:_flush():68] Loading settings from /workspace/tfg_hhernandez/scripts/wandb/settings
+2025-05-05 15:21:38,199 INFO    MainThread:560 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-05 15:21:38,199 INFO    MainThread:560 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /workspace/tfg_hhernandez/scripts/wandb/run-20250505_152138-knv25tuv/logs/debug.log
+2025-05-05 15:21:38,199 INFO    MainThread:560 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /workspace/tfg_hhernandez/scripts/wandb/run-20250505_152138-knv25tuv/logs/debug-internal.log
+2025-05-05 15:21:38,200 INFO    MainThread:560 [wandb_init.py:init():756] calling init triggers
+2025-05-05 15:21:38,200 INFO    MainThread:560 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'seed': 0, 'data': DotMap(annotations_path='/workspace/tfg_hhernandez/annotations', data_path='/dataset/', batch_size=64, workers=4, down_sampling_rate=5, train=['P_03', 'P_04', 'P_05', 'P_06', 'P_09', 'P_10', 'P_12', 'P_13', 'P_14', 'P_18', 'P_19', 'P_20'], val=['P_01', 'P_02', 'P_16', 'P_17'], test=['P_07', 'P_08', 'P_11', 'P_15']), 'video_model': DotMap(block_size=16, name='timesformer', extract_features=False), 'model': DotMap(multimodal=True, fusion_strategy='concat', get_text_features=True, get_object_features=True), 'object_detector': DotMap(max_detected_objects=4, object_recopilation_strategy='middleframe', object_model='GT', object_encoder='swin', extract_features=False, embedding_size=1024), 'text_encoder': DotMap(text_model='Bert', extract_features=False, embedding_size=768), 'classifier': DotMap(hidden_dims=[512], train=True, test=False, train_weights_path='None', test_weights_path='/results/multimodal/timesformer/GT/objs_only/every_frame/concat/swin/best_epoch.pt'), 'train_params': DotMap(lr=0.0005, epochs=20, dropout=0.1, weight_decay=0.1, save_every=20, optimizer='adamw'), 'save_dir': '/results/multimodal/timesformer/GT/objs_only/every_frame/concat/swin/', '_wandb': {}}
+2025-05-05 15:21:38,201 INFO    MainThread:560 [wandb_init.py:init():789] starting backend
+2025-05-05 15:21:38,329 WARNING MainThread:560 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/wandb_init.py", line 792, in init
+    service = self._wl.ensure_service()
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/wandb_setup.py", line 268, in ensure_service
+    self._connection = service_connection.connect_to_service(self._settings)
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/lib/service_connection.py", line 40, in connect_to_service
+    return _start_and_connect_service(settings)
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/lib/service_connection.py", line 75, in _start_and_connect_service
+    proc.start()
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/service/service.py", line 232, in start
+    self._launch_server()
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/service/service.py", line 224, in _launch_server
+    self._wait_for_ports(fname, proc=internal_proc)
+  File "/usr/local/lib/python3.8/dist-packages/wandb/sdk/service/service.py", line 105, in _wait_for_ports
+    time.sleep(0.2)
+KeyboardInterrupt

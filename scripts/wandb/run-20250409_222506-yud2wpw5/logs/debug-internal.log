@@ -1,0 +1,16 @@
+{"time":"2025-04-09T22:25:06.471202735Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250409_222506-yud2wpw5/logs/debug-core.log"}
+{"time":"2025-04-09T22:25:06.579532184Z","level":"INFO","msg":"created new stream","id":"yud2wpw5"}
+{"time":"2025-04-09T22:25:06.579607417Z","level":"INFO","msg":"stream: started","id":"yud2wpw5"}
+{"time":"2025-04-09T22:25:06.579641162Z","level":"INFO","msg":"writer: Do: started","stream_id":"yud2wpw5"}
+{"time":"2025-04-09T22:25:06.579740848Z","level":"INFO","msg":"sender: started","stream_id":"yud2wpw5"}
+{"time":"2025-04-09T22:25:06.579687713Z","level":"INFO","msg":"handler: started","stream_id":"yud2wpw5"}
+{"time":"2025-04-09T22:25:06.903805395Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-10T00:13:53.211976158Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/ActionRecognition/yud2wpw5/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-10T00:41:25.743990918Z","level":"INFO","msg":"stream: closing","id":"yud2wpw5"}
+{"time":"2025-04-10T00:41:25.744048905Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-10T00:41:25.745045899Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-10T00:41:26.404541714Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-10T00:41:26.607703526Z","level":"INFO","msg":"handler: closed","stream_id":"yud2wpw5"}
+{"time":"2025-04-10T00:41:26.607756976Z","level":"INFO","msg":"sender: closed","stream_id":"yud2wpw5"}
+{"time":"2025-04-10T00:41:26.60773376Z","level":"INFO","msg":"writer: Close: closed","stream_id":"yud2wpw5"}
+{"time":"2025-04-10T00:41:26.6086131Z","level":"INFO","msg":"stream: closed","id":"yud2wpw5"}

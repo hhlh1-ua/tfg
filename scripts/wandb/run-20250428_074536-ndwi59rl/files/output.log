@@ -1,0 +1,22 @@
+Traceback (most recent call last):
+  File "../main.py", line 160, in <module>
+    main()
+  File "../main.py", line 130, in main
+    video_model = VideoFeaturesExtractor(config)
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 26, in __init__
+    self.model           = VideoMAEModel.from_pretrained("MCG-NJU/videomae-base")
+  File "/usr/local/lib/python3.8/dist-packages/transformers/modeling_utils.py", line 4097, in from_pretrained
+    model = cls(config, *model_args, **model_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 568, in __init__
+    self.embeddings = VideoMAEEmbeddings(config)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 127, in __init__
+    self.position_embeddings = get_sinusoid_encoding_table(self.num_patches, config.hidden_size)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 108, in get_sinusoid_encoding_table
+    sinusoid_table = np.array([get_position_angle_vec(pos_i) for pos_i in range(n_position)])
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 108, in <listcomp>
+    sinusoid_table = np.array([get_position_angle_vec(pos_i) for pos_i in range(n_position)])
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 106, in get_position_angle_vec
+    return [position / np.power(10000, 2 * (hid_j // 2) / d_hid) for hid_j in range(d_hid)]
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/videomae/modeling_videomae.py", line 106, in <listcomp>
+    return [position / np.power(10000, 2 * (hid_j // 2) / d_hid) for hid_j in range(d_hid)]
+KeyboardInterrupt

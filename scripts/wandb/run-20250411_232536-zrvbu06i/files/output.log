@@ -1,0 +1,31 @@
+  5%|█████▏                                                                                         | 43/789 [00:23<06:48,  1.83it/s]
+Traceback (most recent call last):
+  File "../main.py", line 88, in <module>
+    main()
+  File "../main.py", line 73, in main
+    train_model(config,train_ds,val_ds)
+  File "/workspace/tfg_hhernandez/utils/train.py", line 102, in train_model
+    output = model(features_noisy, frames)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/Model.py", line 34, in forward
+    object_features=self.ObjFTExtractor(frames,max_objects=self.max_detected_objs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectEmbeddingsGetter.py", line 65, in forward
+    object_features = self.objects_in_all_frames(frames_list=frames, max_objects=max_objects)
+  File "/workspace/tfg_hhernandez/models/ObjectEmbeddingsGetter.py", line 94, in objects_in_all_frames
+    bboxes = self.obj_detector(frame)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectDetector.py", line 112, in forward
+    x1, y1, x2, y2, confidence, label = bbox_data
+  File "/usr/local/lib/python3.8/dist-packages/torch/_tensor.py", line 1057, in __iter__
+    return iter(self.unbind(0))
+KeyboardInterrupt

@@ -1,0 +1,15 @@
+{"time":"2025-04-13T20:00:55.6458346Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250413_200055-teeodl4f/logs/debug-core.log"}
+{"time":"2025-04-13T20:00:55.75470167Z","level":"INFO","msg":"created new stream","id":"teeodl4f"}
+{"time":"2025-04-13T20:00:55.754765206Z","level":"INFO","msg":"stream: started","id":"teeodl4f"}
+{"time":"2025-04-13T20:00:55.754809028Z","level":"INFO","msg":"writer: Do: started","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:55.754863632Z","level":"INFO","msg":"handler: started","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:55.754918423Z","level":"INFO","msg":"sender: started","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:56.059684129Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T20:00:57.923657519Z","level":"INFO","msg":"stream: closing","id":"teeodl4f"}
+{"time":"2025-04-13T20:00:57.923697512Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T20:00:57.924704506Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T20:00:58.535085795Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-13T20:00:58.738229837Z","level":"INFO","msg":"handler: closed","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:58.738298295Z","level":"INFO","msg":"writer: Close: closed","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:58.738308111Z","level":"INFO","msg":"sender: closed","stream_id":"teeodl4f"}
+{"time":"2025-04-13T20:00:58.738888114Z","level":"INFO","msg":"stream: closed","id":"teeodl4f"}

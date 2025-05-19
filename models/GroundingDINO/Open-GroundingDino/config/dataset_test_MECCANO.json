@@ -1,0 +1,10 @@
+{
+  "val": [
+    {
+      "root": "/dataset/MECCANO_active_object_frames/active_object_frames",
+      "anno": "/dataset/MECCANO_active_objects_annotations/instances_meccano_test.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}

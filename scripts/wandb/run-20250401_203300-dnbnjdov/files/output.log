@@ -1,0 +1,21 @@
+Extracting video features for the train split ...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+Traceback (most recent call last):
+  File "../main.py", line 69, in <module>
+    main()
+  File "../main.py", line 49, in main
+    video_model.get_features(train_ds)
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 64, in get_features
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 64, in <listcomp>
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 3274, in open
+    filename = os.path.realpath(os.fspath(fp))
+  File "/usr/lib/python3.8/posixpath.py", line 391, in realpath
+    path, ok = _joinrealpath(filename[:0], filename, {})
+  File "/usr/lib/python3.8/posixpath.py", line 425, in _joinrealpath
+    if not islink(newpath):
+  File "/usr/lib/python3.8/posixpath.py", line 167, in islink
+    st = os.lstat(path)
+KeyboardInterrupt

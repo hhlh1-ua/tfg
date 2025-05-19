@@ -1,0 +1,522 @@
+P_03
+P_04
+P_05
+P_06
+P_09
+P_10
+P_12
+P_13
+P_14
+P_18
+P_19
+P_20
+P_01
+P_02
+P_16
+P_17
+P_07
+P_08
+P_11
+P_15
+Extracting video features for the train split ...
+video: P_03, start frame:000392, end frame:000467, action: dental floss, selected frames:16
+video: P_03, start frame:000472, end frame:000547, action: dental floss, selected frames:16
+video: P_03, start frame:000552, end frame:000627, action: dental floss, selected frames:16
+video: P_03, start frame:000632, end frame:000707, action: dental floss, selected frames:16
+video: P_03, start frame:000712, end frame:000787, action: dental floss, selected frames:16
+video: P_03, start frame:000792, end frame:000867, action: dental floss, selected frames:16
+video: P_03, start frame:000872, end frame:000947, action: dental floss, selected frames:16
+video: P_03, start frame:000952, end frame:001027, action: dental floss, selected frames:16
+video: P_03, start frame:001032, end frame:001107, action: dental floss, selected frames:16
+video: P_03, start frame:001112, end frame:001187, action: dental floss, selected frames:16
+video: P_03, start frame:001192, end frame:001267, action: dental floss, selected frames:16
+video: P_03, start frame:001272, end frame:001347, action: dental floss, selected frames:16
+video: P_03, start frame:001352, end frame:001427, action: dental floss, selected frames:16
+video: P_03, start frame:001432, end frame:001507, action: dental floss, selected frames:16
+video: P_03, start frame:001512, end frame:001587, action: dental floss, selected frames:16
+video: P_03, start frame:001592, end frame:001667, action: dental floss, selected frames:16
+video: P_03, start frame:001672, end frame:001747, action: dental floss, selected frames:16
+video: P_03, start frame:001752, end frame:001827, action: dental floss, selected frames:16
+video: P_03, start frame:001832, end frame:001907, action: dental floss, selected frames:16
+video: P_03, start frame:001912, end frame:001987, action: dental floss, selected frames:16
+video: P_03, start frame:001992, end frame:002067, action: dental floss, selected frames:16
+video: P_03, start frame:002072, end frame:002147, action: dental floss, selected frames:16
+video: P_03, start frame:002152, end frame:002227, action: dental floss, selected frames:16
+video: P_03, start frame:002232, end frame:002307, action: dental floss, selected frames:16
+video: P_03, start frame:002367, end frame:002442, action: dental floss, selected frames:16
+video: P_03, start frame:002447, end frame:002522, action: dental floss, selected frames:16
+video: P_03, start frame:002527, end frame:002602, action: dental floss, selected frames:16
+video: P_03, start frame:002607, end frame:002682, action: dental floss, selected frames:16
+video: P_03, start frame:002687, end frame:002762, action: dental floss, selected frames:16
+video: P_03, start frame:002767, end frame:002842, action: dental floss, selected frames:16
+video: P_03, start frame:002847, end frame:002922, action: dental floss, selected frames:16
+video: P_03, start frame:002927, end frame:003002, action: dental floss, selected frames:16
+video: P_03, start frame:003007, end frame:003082, action: dental floss, selected frames:16
+video: P_03, start frame:003539, end frame:003614, action: drying hands/face, selected frames:16
+video: P_03, start frame:003719, end frame:003794, action: brushing teeth, selected frames:16
+video: P_03, start frame:003799, end frame:003874, action: brushing teeth, selected frames:16
+video: P_03, start frame:003934, end frame:004009, action: brushing teeth, selected frames:16
+video: P_03, start frame:004014, end frame:004089, action: brushing teeth, selected frames:16
+video: P_03, start frame:004094, end frame:004169, action: brushing teeth, selected frames:16
+video: P_03, start frame:004174, end frame:004249, action: brushing teeth, selected frames:16
+video: P_03, start frame:004254, end frame:004329, action: brushing teeth, selected frames:16
+video: P_03, start frame:004334, end frame:004409, action: brushing teeth, selected frames:16
+video: P_03, start frame:004414, end frame:004489, action: brushing teeth, selected frames:16
+video: P_03, start frame:004494, end frame:004569, action: brushing teeth, selected frames:16
+video: P_03, start frame:004574, end frame:004649, action: brushing teeth, selected frames:16
+video: P_03, start frame:004654, end frame:004729, action: brushing teeth, selected frames:16
+video: P_03, start frame:004734, end frame:004809, action: brushing teeth, selected frames:16
+video: P_03, start frame:004814, end frame:004889, action: brushing teeth, selected frames:16
+video: P_03, start frame:004894, end frame:004969, action: brushing teeth, selected frames:16
+video: P_03, start frame:004974, end frame:005049, action: brushing teeth, selected frames:16
+video: P_03, start frame:005054, end frame:005129, action: brushing teeth, selected frames:16
+video: P_03, start frame:005134, end frame:005209, action: brushing teeth, selected frames:16
+video: P_03, start frame:005214, end frame:005289, action: brushing teeth, selected frames:16
+video: P_03, start frame:005294, end frame:005369, action: brushing teeth, selected frames:16
+video: P_03, start frame:005374, end frame:005449, action: brushing teeth, selected frames:16
+video: P_03, start frame:005454, end frame:005529, action: brushing teeth, selected frames:16
+video: P_03, start frame:005534, end frame:005609, action: brushing teeth, selected frames:16
+video: P_03, start frame:005614, end frame:005689, action: brushing teeth, selected frames:16
+video: P_03, start frame:005694, end frame:005769, action: brushing teeth, selected frames:16
+video: P_03, start frame:005774, end frame:005849, action: brushing teeth, selected frames:16
+video: P_03, start frame:005854, end frame:005929, action: brushing teeth, selected frames:16
+video: P_03, start frame:005934, end frame:006009, action: brushing teeth, selected frames:16
+video: P_03, start frame:006014, end frame:006089, action: brushing teeth, selected frames:16
+video: P_03, start frame:006094, end frame:006169, action: brushing teeth, selected frames:16
+video: P_03, start frame:006174, end frame:006249, action: brushing teeth, selected frames:16
+video: P_03, start frame:006254, end frame:006329, action: brushing teeth, selected frames:16
+video: P_03, start frame:006334, end frame:006409, action: brushing teeth, selected frames:16
+video: P_03, start frame:006414, end frame:006489, action: brushing teeth, selected frames:16
+video: P_03, start frame:006494, end frame:006569, action: brushing teeth, selected frames:16
+video: P_03, start frame:006574, end frame:006649, action: brushing teeth, selected frames:16
+video: P_03, start frame:006654, end frame:006729, action: brushing teeth, selected frames:16
+video: P_03, start frame:006734, end frame:006809, action: brushing teeth, selected frames:16
+video: P_03, start frame:006814, end frame:006889, action: brushing teeth, selected frames:16
+video: P_03, start frame:006894, end frame:006969, action: brushing teeth, selected frames:16
+video: P_03, start frame:006974, end frame:007049, action: brushing teeth, selected frames:16
+video: P_03, start frame:007054, end frame:007129, action: brushing teeth, selected frames:16
+video: P_03, start frame:007165, end frame:007240, action: washing hands/face, selected frames:16
+video: P_03, start frame:007245, end frame:007320, action: washing hands/face, selected frames:16
+video: P_03, start frame:007325, end frame:007400, action: washing hands/face, selected frames:16
+video: P_03, start frame:007405, end frame:007480, action: washing hands/face, selected frames:16
+video: P_03, start frame:007485, end frame:007560, action: washing hands/face, selected frames:16
+video: P_03, start frame:007565, end frame:007640, action: washing hands/face, selected frames:16
+video: P_03, start frame:007645, end frame:007720, action: drying hands/face, selected frames:16
+video: P_03, start frame:008274, end frame:008349, action: washing dishes, selected frames:16
+video: P_03, start frame:008354, end frame:008429, action: washing dishes, selected frames:16
+video: P_03, start frame:008434, end frame:008509, action: washing dishes, selected frames:16
+video: P_03, start frame:008514, end frame:008589, action: washing dishes, selected frames:16
+video: P_03, start frame:008594, end frame:008669, action: washing dishes, selected frames:16
+video: P_03, start frame:008674, end frame:008749, action: washing dishes, selected frames:16
+video: P_03, start frame:008754, end frame:008829, action: washing dishes, selected frames:16
+video: P_03, start frame:008834, end frame:008909, action: washing dishes, selected frames:16
+video: P_03, start frame:008914, end frame:008989, action: washing dishes, selected frames:16
+video: P_03, start frame:008994, end frame:009069, action: washing dishes, selected frames:16
+video: P_03, start frame:009074, end frame:009149, action: washing dishes, selected frames:16
+video: P_03, start frame:009154, end frame:009229, action: washing dishes, selected frames:16
+video: P_03, start frame:009234, end frame:009309, action: washing dishes, selected frames:16
+video: P_03, start frame:009314, end frame:009389, action: washing dishes, selected frames:16
+video: P_03, start frame:009394, end frame:009469, action: washing dishes, selected frames:16
+video: P_03, start frame:009474, end frame:009549, action: washing dishes, selected frames:16
+video: P_03, start frame:009554, end frame:009629, action: washing dishes, selected frames:16
+video: P_03, start frame:009634, end frame:009709, action: washing dishes, selected frames:16
+video: P_03, start frame:009714, end frame:009789, action: washing dishes, selected frames:16
+video: P_03, start frame:009794, end frame:009869, action: washing dishes, selected frames:16
+video: P_03, start frame:009874, end frame:009949, action: washing dishes, selected frames:16
+video: P_03, start frame:009954, end frame:010029, action: washing dishes, selected frames:16
+video: P_03, start frame:010034, end frame:010109, action: washing dishes, selected frames:16
+video: P_03, start frame:010114, end frame:010189, action: washing dishes, selected frames:16
+video: P_03, start frame:010194, end frame:010269, action: washing dishes, selected frames:16
+video: P_03, start frame:010274, end frame:010349, action: washing dishes, selected frames:16
+video: P_03, start frame:010354, end frame:010429, action: washing dishes, selected frames:16
+video: P_03, start frame:010434, end frame:010509, action: washing dishes, selected frames:16
+video: P_03, start frame:010514, end frame:010589, action: washing dishes, selected frames:16
+video: P_03, start frame:010594, end frame:010669, action: washing dishes, selected frames:16
+video: P_03, start frame:010674, end frame:010749, action: washing dishes, selected frames:16
+video: P_03, start frame:010754, end frame:010829, action: washing dishes, selected frames:16
+video: P_03, start frame:010834, end frame:010909, action: washing dishes, selected frames:16
+video: P_03, start frame:010914, end frame:010989, action: washing dishes, selected frames:16
+video: P_03, start frame:010994, end frame:011069, action: washing dishes, selected frames:16
+video: P_03, start frame:011074, end frame:011149, action: washing dishes, selected frames:16
+video: P_03, start frame:011154, end frame:011229, action: washing dishes, selected frames:16
+video: P_03, start frame:011234, end frame:011309, action: washing dishes, selected frames:16
+video: P_03, start frame:011314, end frame:011389, action: washing dishes, selected frames:16
+video: P_03, start frame:011394, end frame:011469, action: washing dishes, selected frames:16
+video: P_03, start frame:011474, end frame:011549, action: washing dishes, selected frames:16
+video: P_03, start frame:011554, end frame:011629, action: washing dishes, selected frames:16
+video: P_03, start frame:011634, end frame:011709, action: washing dishes, selected frames:16
+video: P_03, start frame:011714, end frame:011789, action: washing dishes, selected frames:16
+video: P_03, start frame:011794, end frame:011869, action: washing dishes, selected frames:16
+video: P_03, start frame:011874, end frame:011949, action: washing dishes, selected frames:16
+video: P_03, start frame:011954, end frame:012029, action: washing dishes, selected frames:16
+video: P_03, start frame:012034, end frame:012109, action: washing dishes, selected frames:16
+video: P_03, start frame:012114, end frame:012189, action: washing dishes, selected frames:16
+video: P_03, start frame:012194, end frame:012269, action: washing dishes, selected frames:16
+video: P_03, start frame:012274, end frame:012349, action: washing dishes, selected frames:16
+video: P_03, start frame:012354, end frame:012429, action: washing dishes, selected frames:16
+video: P_03, start frame:012434, end frame:012509, action: washing dishes, selected frames:16
+video: P_03, start frame:012514, end frame:012589, action: washing dishes, selected frames:16
+video: P_03, start frame:012594, end frame:012669, action: washing dishes, selected frames:16
+video: P_03, start frame:012674, end frame:012749, action: washing dishes, selected frames:16
+video: P_03, start frame:012754, end frame:012829, action: washing dishes, selected frames:16
+video: P_03, start frame:012834, end frame:012909, action: washing dishes, selected frames:16
+video: P_03, start frame:012914, end frame:012989, action: washing dishes, selected frames:16
+video: P_03, start frame:012994, end frame:013069, action: washing dishes, selected frames:16
+video: P_03, start frame:013074, end frame:013149, action: washing dishes, selected frames:16
+video: P_03, start frame:013154, end frame:013229, action: washing dishes, selected frames:16
+video: P_03, start frame:013234, end frame:013309, action: washing dishes, selected frames:16
+video: P_03, start frame:013314, end frame:013389, action: washing dishes, selected frames:16
+video: P_03, start frame:013394, end frame:013469, action: washing dishes, selected frames:16
+video: P_03, start frame:013474, end frame:013549, action: washing dishes, selected frames:16
+video: P_03, start frame:013554, end frame:013629, action: washing dishes, selected frames:16
+video: P_03, start frame:013634, end frame:013709, action: washing dishes, selected frames:16
+video: P_03, start frame:013714, end frame:013789, action: washing dishes, selected frames:16
+video: P_03, start frame:013794, end frame:013869, action: washing dishes, selected frames:16
+video: P_03, start frame:013874, end frame:013949, action: washing dishes, selected frames:16
+video: P_03, start frame:013954, end frame:014029, action: washing dishes, selected frames:16
+video: P_03, start frame:014034, end frame:014109, action: washing dishes, selected frames:16
+video: P_03, start frame:014114, end frame:014189, action: washing dishes, selected frames:16
+video: P_03, start frame:014194, end frame:014269, action: washing dishes, selected frames:16
+video: P_03, start frame:014274, end frame:014349, action: washing dishes, selected frames:16
+video: P_03, start frame:014354, end frame:014429, action: washing dishes, selected frames:16
+video: P_03, start frame:014434, end frame:014509, action: washing dishes, selected frames:16
+video: P_03, start frame:014514, end frame:014589, action: washing dishes, selected frames:16
+video: P_03, start frame:014594, end frame:014669, action: washing dishes, selected frames:16
+video: P_03, start frame:014674, end frame:014749, action: washing dishes, selected frames:16
+video: P_03, start frame:014754, end frame:014829, action: washing dishes, selected frames:16
+video: P_03, start frame:014834, end frame:014909, action: washing dishes, selected frames:16
+video: P_03, start frame:014914, end frame:014989, action: washing dishes, selected frames:16
+video: P_03, start frame:014994, end frame:015069, action: washing dishes, selected frames:16
+video: P_03, start frame:015074, end frame:015149, action: washing dishes, selected frames:16
+video: P_03, start frame:015154, end frame:015229, action: washing dishes, selected frames:16
+video: P_03, start frame:015234, end frame:015309, action: washing dishes, selected frames:16
+video: P_03, start frame:015314, end frame:015389, action: washing dishes, selected frames:16
+video: P_03, start frame:015394, end frame:015469, action: washing dishes, selected frames:16
+video: P_03, start frame:015474, end frame:015549, action: washing dishes, selected frames:16
+video: P_03, start frame:015554, end frame:015629, action: washing dishes, selected frames:16
+video: P_03, start frame:015634, end frame:015709, action: washing dishes, selected frames:16
+video: P_03, start frame:015714, end frame:015789, action: washing dishes, selected frames:16
+video: P_03, start frame:015794, end frame:015869, action: washing dishes, selected frames:16
+video: P_03, start frame:015874, end frame:015949, action: washing dishes, selected frames:16
+video: P_03, start frame:015954, end frame:016029, action: washing dishes, selected frames:16
+video: P_03, start frame:016034, end frame:016109, action: washing dishes, selected frames:16
+video: P_03, start frame:016114, end frame:016189, action: washing dishes, selected frames:16
+video: P_03, start frame:016194, end frame:016269, action: washing dishes, selected frames:16
+video: P_03, start frame:016274, end frame:016349, action: washing dishes, selected frames:16
+video: P_03, start frame:016354, end frame:016429, action: washing dishes, selected frames:16
+video: P_03, start frame:016434, end frame:016509, action: washing dishes, selected frames:16
+video: P_03, start frame:016514, end frame:016589, action: washing dishes, selected frames:16
+video: P_03, start frame:016594, end frame:016669, action: washing dishes, selected frames:16
+video: P_03, start frame:016674, end frame:016749, action: washing dishes, selected frames:16
+video: P_03, start frame:016754, end frame:016829, action: washing dishes, selected frames:16
+video: P_03, start frame:016834, end frame:016909, action: washing dishes, selected frames:16
+video: P_03, start frame:016914, end frame:016989, action: washing dishes, selected frames:16
+video: P_03, start frame:016994, end frame:017069, action: washing dishes, selected frames:16
+video: P_03, start frame:017074, end frame:017149, action: washing dishes, selected frames:16
+video: P_03, start frame:017154, end frame:017229, action: washing dishes, selected frames:16
+video: P_03, start frame:017234, end frame:017309, action: washing dishes, selected frames:16
+video: P_03, start frame:017314, end frame:017389, action: washing dishes, selected frames:16
+video: P_03, start frame:017394, end frame:017469, action: washing dishes, selected frames:16
+video: P_03, start frame:017474, end frame:017549, action: washing dishes, selected frames:16
+video: P_03, start frame:017554, end frame:017629, action: washing dishes, selected frames:16
+video: P_03, start frame:017634, end frame:017709, action: washing dishes, selected frames:16
+video: P_03, start frame:017745, end frame:017820, action: moving dishes, selected frames:16
+video: P_03, start frame:017825, end frame:017900, action: moving dishes, selected frames:16
+video: P_03, start frame:017905, end frame:017980, action: moving dishes, selected frames:16
+video: P_03, start frame:017985, end frame:018060, action: moving dishes, selected frames:16
+video: P_03, start frame:018344, end frame:018419, action: drying hands/face, selected frames:16
+video: P_03, start frame:018474, end frame:018549, action: drying hands/face, selected frames:16
+video: P_03, start frame:018674, end frame:018749, action: making cold food/snack, selected frames:16
+video: P_03, start frame:018754, end frame:018829, action: making cold food/snack, selected frames:16
+video: P_03, start frame:018834, end frame:018909, action: making cold food/snack, selected frames:16
+video: P_03, start frame:018914, end frame:018989, action: making cold food/snack, selected frames:16
+video: P_03, start frame:018994, end frame:019069, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019074, end frame:019149, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019154, end frame:019229, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019234, end frame:019309, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019314, end frame:019389, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019394, end frame:019469, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019474, end frame:019549, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019554, end frame:019629, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019649, end frame:019724, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019729, end frame:019804, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019809, end frame:019884, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019889, end frame:019964, action: making cold food/snack, selected frames:16
+video: P_03, start frame:019969, end frame:020044, action: making cold food/snack, selected frames:16
+video: P_03, start frame:020049, end frame:020124, action: making cold food/snack, selected frames:16
+video: P_03, start frame:020129, end frame:020204, action: making cold food/snack, selected frames:16
+video: P_03, start frame:020209, end frame:020284, action: making cold food/snack, selected frames:16
+video: P_03, start frame:020832, end frame:020907, action: making tea, selected frames:16
+video: P_03, start frame:020912, end frame:020987, action: making tea, selected frames:16
+video: P_03, start frame:020992, end frame:021067, action: making tea, selected frames:16
+video: P_03, start frame:021072, end frame:021147, action: making tea, selected frames:16
+video: P_03, start frame:021152, end frame:021227, action: making tea, selected frames:16
+video: P_03, start frame:021232, end frame:021307, action: making tea, selected frames:16
+video: P_03, start frame:021581, end frame:021656, action: washing hands/face, selected frames:16
+video: P_03, start frame:021661, end frame:021736, action: washing hands/face, selected frames:16
+video: P_03, start frame:021741, end frame:021816, action: washing hands/face, selected frames:16
+video: P_03, start frame:021821, end frame:021896, action: washing hands/face, selected frames:16
+video: P_03, start frame:021941, end frame:022016, action: washing hands/face, selected frames:16
+video: P_03, start frame:022021, end frame:022096, action: washing hands/face, selected frames:16
+video: P_03, start frame:022101, end frame:022176, action: washing hands/face, selected frames:16
+video: P_03, start frame:022180, end frame:022255, action: drying hands/face, selected frames:16
+video: P_03, start frame:022260, end frame:022335, action: drying hands/face, selected frames:16
+video: P_03, start frame:022340, end frame:022415, action: drying hands/face, selected frames:16
+video: P_03, start frame:023019, end frame:023094, action: making tea, selected frames:16
+video: P_03, start frame:023099, end frame:023174, action: making tea, selected frames:16
+video: P_03, start frame:023179, end frame:023254, action: making tea, selected frames:16
+video: P_03, start frame:023259, end frame:023334, action: making tea, selected frames:16
+video: P_03, start frame:023339, end frame:023414, action: making tea, selected frames:16
+video: P_03, start frame:023419, end frame:023494, action: making tea, selected frames:16
+video: P_03, start frame:023499, end frame:023574, action: making tea, selected frames:16
+video: P_03, start frame:023579, end frame:023654, action: making tea, selected frames:16
+video: P_03, start frame:023659, end frame:023734, action: making tea, selected frames:16
+video: P_03, start frame:023739, end frame:023814, action: making tea, selected frames:16
+video: P_03, start frame:023819, end frame:023894, action: making tea, selected frames:16
+video: P_03, start frame:023974, end frame:024049, action: making tea, selected frames:16
+video: P_03, start frame:024054, end frame:024129, action: making tea, selected frames:16
+video: P_03, start frame:024134, end frame:024209, action: making tea, selected frames:16
+video: P_03, start frame:024214, end frame:024289, action: making tea, selected frames:16
+video: P_03, start frame:024294, end frame:024369, action: making tea, selected frames:16
+video: P_03, start frame:024374, end frame:024449, action: making tea, selected frames:16
+video: P_03, start frame:024454, end frame:024529, action: making tea, selected frames:16
+video: P_03, start frame:024534, end frame:024609, action: making tea, selected frames:16
+video: P_03, start frame:024614, end frame:024689, action: making tea, selected frames:16
+video: P_03, start frame:024694, end frame:024769, action: making tea, selected frames:16
+video: P_03, start frame:024774, end frame:024849, action: making tea, selected frames:16
+video: P_03, start frame:024854, end frame:024929, action: making tea, selected frames:16
+video: P_03, start frame:024934, end frame:025009, action: making tea, selected frames:16
+video: P_03, start frame:025014, end frame:025089, action: making tea, selected frames:16
+video: P_03, start frame:025094, end frame:025169, action: making tea, selected frames:16
+video: P_03, start frame:025174, end frame:025249, action: making tea, selected frames:16
+video: P_03, start frame:025254, end frame:025329, action: making tea, selected frames:16
+video: P_03, start frame:025334, end frame:025409, action: making tea, selected frames:16
+video: P_03, start frame:025597, end frame:025672, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:025677, end frame:025752, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:025757, end frame:025832, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:025837, end frame:025912, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:025917, end frame:025992, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:025997, end frame:026072, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026077, end frame:026152, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026157, end frame:026232, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026237, end frame:026312, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026317, end frame:026392, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026397, end frame:026472, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026477, end frame:026552, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026557, end frame:026632, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026642, end frame:026717, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026722, end frame:026797, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026802, end frame:026877, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026882, end frame:026957, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026962, end frame:027037, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027042, end frame:027117, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027122, end frame:027197, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027202, end frame:027277, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027282, end frame:027357, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027362, end frame:027437, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027442, end frame:027517, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027522, end frame:027597, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027602, end frame:027677, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027682, end frame:027757, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027762, end frame:027837, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027842, end frame:027917, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:027922, end frame:027997, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:028002, end frame:028077, action: drinking water/bottle, selected frames:16
+video: P_03, start frame:026916, end frame:026991, action: adjusting thermostat, selected frames:16
+video: P_03, start frame:026996, end frame:027071, action: adjusting thermostat, selected frames:16
+video: P_03, start frame:027076, end frame:027151, action: adjusting thermostat, selected frames:16
+video: P_03, start frame:028084, end frame:028159, action: washing dishes, selected frames:16
+video: P_03, start frame:028164, end frame:028239, action: washing dishes, selected frames:16
+video: P_03, start frame:028244, end frame:028319, action: washing dishes, selected frames:16
+video: P_03, start frame:028324, end frame:028399, action: washing dishes, selected frames:16
+video: P_03, start frame:028404, end frame:028479, action: washing dishes, selected frames:16
+video: P_03, start frame:028484, end frame:028559, action: washing dishes, selected frames:16
+video: P_03, start frame:028564, end frame:028639, action: washing dishes, selected frames:16
+video: P_03, start frame:028644, end frame:028719, action: washing dishes, selected frames:16
+video: P_03, start frame:028744, end frame:028819, action: washing dishes, selected frames:16
+video: P_03, start frame:028824, end frame:028899, action: washing dishes, selected frames:16
+video: P_03, start frame:028904, end frame:028979, action: washing dishes, selected frames:16
+video: P_03, start frame:029013, end frame:029088, action: drying hands/face, selected frames:16
+video: P_03, start frame:029103, end frame:029178, action: drying hands/face, selected frames:16
+video: P_03, start frame:029183, end frame:029258, action: drying hands/face, selected frames:16
+video: P_03, start frame:029263, end frame:029338, action: drying hands/face, selected frames:16
+video: P_03, start frame:029673, end frame:029748, action: making tea, selected frames:16
+video: P_03, start frame:029753, end frame:029828, action: making tea, selected frames:16
+video: P_03, start frame:029833, end frame:029908, action: making tea, selected frames:16
+video: P_03, start frame:029913, end frame:029988, action: making tea, selected frames:16
+video: P_03, start frame:029993, end frame:030068, action: making tea, selected frames:16
+video: P_03, start frame:030073, end frame:030148, action: making tea, selected frames:16
+video: P_03, start frame:030153, end frame:030228, action: making tea, selected frames:16
+video: P_03, start frame:030233, end frame:030308, action: making tea, selected frames:16
+video: P_03, start frame:030313, end frame:030388, action: making tea, selected frames:16
+video: P_03, start frame:030393, end frame:030468, action: making tea, selected frames:16
+video: P_03, start frame:030473, end frame:030548, action: making tea, selected frames:16
+video: P_03, start frame:030553, end frame:030628, action: making tea, selected frames:16
+video: P_03, start frame:030633, end frame:030708, action: making tea, selected frames:16
+video: P_03, start frame:030713, end frame:030788, action: making tea, selected frames:16
+video: P_03, start frame:030793, end frame:030868, action: making tea, selected frames:16
+video: P_03, start frame:030873, end frame:030948, action: making tea, selected frames:16
+video: P_03, start frame:030953, end frame:031028, action: making tea, selected frames:16
+video: P_03, start frame:031033, end frame:031108, action: making tea, selected frames:16
+video: P_03, start frame:031158, end frame:031233, action: making tea, selected frames:16
+video: P_03, start frame:031238, end frame:031313, action: making tea, selected frames:16
+video: P_03, start frame:031318, end frame:031393, action: making tea, selected frames:16
+video: P_03, start frame:031398, end frame:031473, action: making tea, selected frames:16
+video: P_03, start frame:031478, end frame:031553, action: making tea, selected frames:16
+video: P_03, start frame:031558, end frame:031633, action: making tea, selected frames:16
+video: P_03, start frame:031638, end frame:031713, action: making tea, selected frames:16
+video: P_03, start frame:031718, end frame:031793, action: making tea, selected frames:16
+video: P_03, start frame:031798, end frame:031873, action: making tea, selected frames:16
+video: P_03, start frame:031878, end frame:031953, action: making tea, selected frames:16
+video: P_03, start frame:031958, end frame:032033, action: making tea, selected frames:16
+video: P_03, start frame:032038, end frame:032113, action: making tea, selected frames:16
+video: P_03, start frame:032118, end frame:032193, action: making tea, selected frames:16
+video: P_03, start frame:032198, end frame:032273, action: making tea, selected frames:16
+video: P_03, start frame:032278, end frame:032353, action: making tea, selected frames:16
+video: P_03, start frame:032358, end frame:032433, action: making tea, selected frames:16
+video: P_03, start frame:032438, end frame:032513, action: making tea, selected frames:16
+video: P_03, start frame:030382, end frame:030457, action: washing dishes, selected frames:16
+video: P_03, start frame:030462, end frame:030537, action: washing dishes, selected frames:16
+video: P_03, start frame:032550, end frame:032625, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:032630, end frame:032705, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:032710, end frame:032785, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:032790, end frame:032865, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:032870, end frame:032945, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:032950, end frame:033025, action: drinking coffee/tea, selected frames:16
+video: P_03, start frame:033059, end frame:033134, action: using computer, selected frames:16
+video: P_03, start frame:033139, end frame:033214, action: using computer, selected frames:16
+video: P_03, start frame:033219, end frame:033294, action: using computer, selected frames:16
+video: P_03, start frame:033299, end frame:033374, action: using computer, selected frames:16
+video: P_03, start frame:033379, end frame:033454, action: using computer, selected frames:16
+video: P_03, start frame:033459, end frame:033534, action: using computer, selected frames:16
+video: P_03, start frame:033539, end frame:033614, action: using computer, selected frames:16
+video: P_03, start frame:033619, end frame:033694, action: using computer, selected frames:16
+video: P_03, start frame:033699, end frame:033774, action: using computer, selected frames:16
+video: P_03, start frame:033779, end frame:033854, action: using computer, selected frames:16
+video: P_03, start frame:033859, end frame:033934, action: using computer, selected frames:16
+video: P_03, start frame:033939, end frame:034014, action: using computer, selected frames:16
+video: P_03, start frame:034084, end frame:034159, action: using computer, selected frames:16
+video: P_03, start frame:034164, end frame:034239, action: using computer, selected frames:16
+video: P_03, start frame:034244, end frame:034319, action: using computer, selected frames:16
+video: P_03, start frame:034324, end frame:034399, action: using computer, selected frames:16
+video: P_03, start frame:034404, end frame:034479, action: using computer, selected frames:16
+video: P_03, start frame:034484, end frame:034559, action: using computer, selected frames:16
+video: P_03, start frame:034564, end frame:034639, action: using computer, selected frames:16
+video: P_03, start frame:034644, end frame:034719, action: using computer, selected frames:16
+video: P_03, start frame:034724, end frame:034799, action: using computer, selected frames:16
+video: P_03, start frame:034804, end frame:034879, action: using computer, selected frames:16
+video: P_03, start frame:034884, end frame:034959, action: using computer, selected frames:16
+video: P_03, start frame:034964, end frame:035039, action: using computer, selected frames:16
+video: P_03, start frame:035044, end frame:035119, action: using computer, selected frames:16
+video: P_03, start frame:035124, end frame:035199, action: using computer, selected frames:16
+video: P_03, start frame:035204, end frame:035279, action: using computer, selected frames:16
+video: P_03, start frame:035284, end frame:035359, action: using computer, selected frames:16
+video: P_03, start frame:035364, end frame:035439, action: using computer, selected frames:16
+video: P_03, start frame:035444, end frame:035519, action: using computer, selected frames:16
+video: P_03, start frame:035524, end frame:035599, action: using computer, selected frames:16
+video: P_03, start frame:035604, end frame:035679, action: using computer, selected frames:16
+video: P_03, start frame:035684, end frame:035759, action: using computer, selected frames:16
+video: P_03, start frame:035764, end frame:035839, action: using computer, selected frames:16
+video: P_03, start frame:035844, end frame:035919, action: using computer, selected frames:16
+video: P_03, start frame:035924, end frame:035999, action: using computer, selected frames:16
+video: P_03, start frame:036004, end frame:036079, action: using computer, selected frames:16
+video: P_03, start frame:036084, end frame:036159, action: using computer, selected frames:16
+video: P_03, start frame:036164, end frame:036239, action: using computer, selected frames:16
+video: P_03, start frame:036244, end frame:036319, action: using computer, selected frames:16
+video: P_03, start frame:036324, end frame:036399, action: using computer, selected frames:16
+video: P_03, start frame:036404, end frame:036479, action: using computer, selected frames:16
+video: P_03, start frame:036484, end frame:036559, action: using computer, selected frames:16
+video: P_03, start frame:036564, end frame:036639, action: using computer, selected frames:16
+video: P_03, start frame:036644, end frame:036719, action: using computer, selected frames:16
+video: P_03, start frame:036724, end frame:036799, action: using computer, selected frames:16
+video: P_03, start frame:036804, end frame:036879, action: using computer, selected frames:16
+video: P_03, start frame:036884, end frame:036959, action: using computer, selected frames:16
+video: P_03, start frame:036964, end frame:037039, action: using computer, selected frames:16
+video: P_03, start frame:037044, end frame:037119, action: using computer, selected frames:16
+video: P_03, start frame:037124, end frame:037199, action: using computer, selected frames:16
+video: P_03, start frame:037204, end frame:037279, action: using computer, selected frames:16
+video: P_03, start frame:037284, end frame:037359, action: using computer, selected frames:16
+video: P_03, start frame:037364, end frame:037439, action: using computer, selected frames:16
+video: P_03, start frame:037444, end frame:037519, action: using computer, selected frames:16
+video: P_03, start frame:037524, end frame:037599, action: using computer, selected frames:16
+video: P_03, start frame:037604, end frame:037679, action: using computer, selected frames:16
+video: P_03, start frame:037684, end frame:037759, action: using computer, selected frames:16
+video: P_03, start frame:037764, end frame:037839, action: using computer, selected frames:16
+video: P_03, start frame:037844, end frame:037919, action: using computer, selected frames:16
+video: P_03, start frame:037924, end frame:037999, action: using computer, selected frames:16
+video: P_03, start frame:038004, end frame:038079, action: using computer, selected frames:16
+video: P_03, start frame:038084, end frame:038159, action: using computer, selected frames:16
+video: P_03, start frame:038164, end frame:038239, action: using computer, selected frames:16
+video: P_03, start frame:038244, end frame:038319, action: using computer, selected frames:16
+video: P_03, start frame:038324, end frame:038399, action: using computer, selected frames:16
+video: P_03, start frame:038404, end frame:038479, action: using computer, selected frames:16
+video: P_03, start frame:038484, end frame:038559, action: using computer, selected frames:16
+video: P_03, start frame:038564, end frame:038639, action: using computer, selected frames:16
+video: P_03, start frame:038644, end frame:038719, action: using computer, selected frames:16
+video: P_03, start frame:038724, end frame:038799, action: using computer, selected frames:16
+video: P_03, start frame:038804, end frame:038879, action: using computer, selected frames:16
+video: P_03, start frame:038884, end frame:038959, action: using computer, selected frames:16
+video: P_03, start frame:038964, end frame:039039, action: using computer, selected frames:16
+video: P_03, start frame:039044, end frame:039119, action: using computer, selected frames:16
+video: P_03, start frame:039124, end frame:039199, action: using computer, selected frames:16
+video: P_03, start frame:039593, end frame:039668, action: taking pills, selected frames:16
+video: P_03, start frame:039673, end frame:039748, action: taking pills, selected frames:16
+video: P_03, start frame:039753, end frame:039828, action: taking pills, selected frames:16
+video: P_03, start frame:039833, end frame:039908, action: taking pills, selected frames:16
+video: P_03, start frame:039913, end frame:039988, action: taking pills, selected frames:16
+video: P_03, start frame:039993, end frame:040068, action: taking pills, selected frames:16
+video: P_03, start frame:040073, end frame:040148, action: taking pills, selected frames:16
+video: P_03, start frame:040153, end frame:040228, action: taking pills, selected frames:16
+video: P_03, start frame:040233, end frame:040308, action: taking pills, selected frames:16
+video: P_03, start frame:040313, end frame:040388, action: taking pills, selected frames:16
+video: P_03, start frame:040393, end frame:040468, action: taking pills, selected frames:16
+video: P_03, start frame:040473, end frame:040548, action: taking pills, selected frames:16
+video: P_03, start frame:040582, end frame:040657, action: laundry, selected frames:16
+video: P_03, start frame:040662, end frame:040737, action: laundry, selected frames:16
+video: P_03, start frame:040742, end frame:040817, action: laundry, selected frames:16
+video: P_03, start frame:040822, end frame:040897, action: laundry, selected frames:16
+video: P_03, start frame:040902, end frame:040977, action: laundry, selected frames:16
+video: P_03, start frame:040982, end frame:041057, action: laundry, selected frames:16
+video: P_03, start frame:041062, end frame:041137, action: laundry, selected frames:16
+video: P_03, start frame:041142, end frame:041217, action: laundry, selected frames:16
+video: P_03, start frame:041222, end frame:041297, action: laundry, selected frames:16
+video: P_03, start frame:041302, end frame:041377, action: laundry, selected frames:16
+video: P_03, start frame:041382, end frame:041457, action: laundry, selected frames:16
+video: P_03, start frame:041462, end frame:041537, action: laundry, selected frames:16
+video: P_03, start frame:041542, end frame:041617, action: laundry, selected frames:16
+video: P_03, start frame:041622, end frame:041697, action: laundry, selected frames:16
+video: P_03, start frame:041702, end frame:041777, action: laundry, selected frames:16
+video: P_03, start frame:041782, end frame:041857, action: laundry, selected frames:16
+video: P_03, start frame:041862, end frame:041937, action: laundry, selected frames:16
+video: P_03, start frame:041942, end frame:042017, action: laundry, selected frames:16
+video: P_03, start frame:042022, end frame:042097, action: laundry, selected frames:16
+video: P_03, start frame:042157, end frame:042232, action: laundry, selected frames:16
+video: P_03, start frame:042237, end frame:042312, action: laundry, selected frames:16
+video: P_03, start frame:042317, end frame:042392, action: laundry, selected frames:16
+video: P_03, start frame:042397, end frame:042472, action: laundry, selected frames:16
+video: P_03, start frame:042477, end frame:042552, action: laundry, selected frames:16
+video: P_03, start frame:042800, end frame:042875, action: using cell, selected frames:16
+video: P_03, start frame:042880, end frame:042955, action: using cell, selected frames:16
+video: P_03, start frame:042980, end frame:043055, action: using cell, selected frames:16
+video: P_03, start frame:043060, end frame:043135, action: using cell, selected frames:16
+video: P_03, start frame:043140, end frame:043215, action: using cell, selected frames:16
+video: P_03, start frame:044628, end frame:044703, action: using cell, selected frames:16
+video: P_03, start frame:044708, end frame:044783, action: using cell, selected frames:16
+Traceback (most recent call last):
+  File "main.py", line 65, in <module>
+    main()
+  File "main.py", line 48, in main
+    model.get_features(train_ds)
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 61, in get_features
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 61, in <listcomp>
+    frames = [Image.open(frame_path).convert('RGB') for frame_path in block_frames]
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 3274, in open
+    filename = os.path.realpath(os.fspath(fp))
+  File "/usr/lib/python3.8/posixpath.py", line 391, in realpath
+    path, ok = _joinrealpath(filename[:0], filename, {})
+  File "/usr/lib/python3.8/posixpath.py", line 425, in _joinrealpath
+    if not islink(newpath):
+  File "/usr/lib/python3.8/posixpath.py", line 167, in islink
+    st = os.lstat(path)
+KeyboardInterrupt

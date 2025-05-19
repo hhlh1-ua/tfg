@@ -1,0 +1,9 @@
+torch==2.3.0+cu121
+opencv-python
+transformers==4.46.2
+matplotlib
+Pillow
+numpy
+pandas
+wandb
+dotmap

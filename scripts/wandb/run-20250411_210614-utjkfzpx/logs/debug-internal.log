@@ -1,0 +1,16 @@
+{"time":"2025-04-11T21:06:15.184405207Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250411_210614-utjkfzpx/logs/debug-core.log"}
+{"time":"2025-04-11T21:06:15.293089578Z","level":"INFO","msg":"created new stream","id":"utjkfzpx"}
+{"time":"2025-04-11T21:06:15.293148181Z","level":"INFO","msg":"stream: started","id":"utjkfzpx"}
+{"time":"2025-04-11T21:06:15.293171335Z","level":"INFO","msg":"writer: Do: started","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T21:06:15.293266482Z","level":"INFO","msg":"sender: started","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T21:06:15.293408305Z","level":"INFO","msg":"handler: started","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T21:06:15.554143935Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-11T21:12:46.168955911Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/ViTOnly/utjkfzpx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-11T23:18:08.941209319Z","level":"INFO","msg":"stream: closing","id":"utjkfzpx"}
+{"time":"2025-04-11T23:18:08.941277267Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-11T23:18:08.942370069Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-11T23:18:09.52510912Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-11T23:18:09.712206611Z","level":"INFO","msg":"handler: closed","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T23:18:09.712272228Z","level":"INFO","msg":"writer: Close: closed","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T23:18:09.712287523Z","level":"INFO","msg":"sender: closed","stream_id":"utjkfzpx"}
+{"time":"2025-04-11T23:18:09.71317558Z","level":"INFO","msg":"stream: closed","id":"utjkfzpx"}

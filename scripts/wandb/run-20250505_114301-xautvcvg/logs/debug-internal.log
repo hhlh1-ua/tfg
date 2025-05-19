@@ -1,0 +1,16 @@
+{"time":"2025-05-05T11:43:01.513437591Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250505_114301-xautvcvg/logs/debug-core.log"}
+{"time":"2025-05-05T11:43:01.622057317Z","level":"INFO","msg":"created new stream","id":"xautvcvg"}
+{"time":"2025-05-05T11:43:01.62213476Z","level":"INFO","msg":"stream: started","id":"xautvcvg"}
+{"time":"2025-05-05T11:43:01.622229547Z","level":"INFO","msg":"handler: started","stream_id":"xautvcvg"}
+{"time":"2025-05-05T11:43:01.622216963Z","level":"INFO","msg":"writer: Do: started","stream_id":"xautvcvg"}
+{"time":"2025-05-05T11:43:01.622320685Z","level":"INFO","msg":"sender: started","stream_id":"xautvcvg"}
+{"time":"2025-05-05T11:43:01.89087278Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-05T12:26:07.527396071Z","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/ObjectFeatures/xautvcvg/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-05-05T12:44:51.889373282Z","level":"INFO","msg":"stream: closing","id":"xautvcvg"}
+{"time":"2025-05-05T12:44:51.889520238Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-05T12:44:51.890652693Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-05T12:44:52.960266707Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-05T12:44:53.187887086Z","level":"INFO","msg":"handler: closed","stream_id":"xautvcvg"}
+{"time":"2025-05-05T12:44:53.187914979Z","level":"INFO","msg":"writer: Close: closed","stream_id":"xautvcvg"}
+{"time":"2025-05-05T12:44:53.18794104Z","level":"INFO","msg":"sender: closed","stream_id":"xautvcvg"}
+{"time":"2025-05-05T12:44:53.188508616Z","level":"INFO","msg":"stream: closed","id":"xautvcvg"}

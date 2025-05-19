@@ -1,0 +1,23 @@
+preprocessor_config.json: 100%|█████████████████████████████████████████████████████████████████████| 271/271 [00:00<00:00, 31.7kB/s]
+config.json: 100%|██████████████████████████████████████████████████████████████████████████████████| 725/725 [00:00<00:00, 82.4kB/s]
+model.safetensors: 100%|███████████████████████████████████████████████████████████████████████████| 377M/377M [00:03<00:00, 114MB/s]
+Extracting video features for the train split ...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+Traceback (most recent call last):
+  File "../main.py", line 151, in <module>
+    main()
+  File "../main.py", line 122, in main
+    video_model.get_features(train_ds)
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 77, in get_features
+    video_representation = self.cls_token(output).detach().cpu().numpy().squeeze()
+  File "/workspace/tfg_hhernandez/models/VideoFeaturesExtractor.py", line 33, in <lambda>
+    self.cls_token = lambda x: self.norm(x['last_hidden_state'].mean(dim=1))
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/normalization.py", line 201, in forward
+    return F.layer_norm(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/functional.py", line 2573, in layer_norm
+    return torch.layer_norm(input, normalized_shape, weight, bias, eps, torch.backends.cudnn.enabled)
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument weight in method wrapper_CUDA__native_layer_norm)

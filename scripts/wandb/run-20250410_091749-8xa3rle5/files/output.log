@@ -1,0 +1,6 @@
+loading checkpoint '/results/multimodal/objs_only/swin/best_epoch.pt'
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:05<00:00,  2.65s/it]
+***** Train Stats *******
+Top 1 Accuracy: 0.4823529411764706
+Top 5 Accuracy: 0.7764705882352941
+Mean Loss: 0.1684395623557708

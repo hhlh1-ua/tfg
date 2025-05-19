@@ -1,0 +1,93 @@
+tokenizer_config.json: 100%|██████████████████████████████████████████████████████████████████████| 48.0/48.0 [00:00<00:00, 6.74kB/s]
+vocab.txt: 100%|██████████████████████████████████████████████████████████████████████████████████| 232k/232k [00:00<00:00, 7.03MB/s]
+special_tokens_map.json: 100%|██████████████████████████████████████████████████████████████████████| 112/112 [00:00<00:00, 47.8kB/s]
+config.json: 100%|███████████████████████████████████████████████████████████████████████████████████| 555/555 [00:00<00:00, 235kB/s]
+pytorch_model.bin: 100%|██████████████████████████████████████████████████████████████████████████| 438M/438M [00:22<00:00, 19.7MB/s]
+Extracting additional object features...
+Extracting additional object features for the train split ...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 2
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 3
+model.safetensors: 100%|██████████████████████████████████████████████████████████████████████████| 438M/438M [00:08<00:00, 52.1MB/s]
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 4
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 5
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 6
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 7
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 8
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 9
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 10
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 11
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 12
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 13
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 14
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 15
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 16
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 17
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 18
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 19
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 20
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 21
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 22
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 23
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 24
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 25
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 26
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 27
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 28
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 29
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 30
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 31
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 32
+video: P_03, start frame:3536, end frame:3686, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 0
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 1
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 2
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 3
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 4
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 5
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 6
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 7
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 8
+Traceback (most recent call last):
+  File "../main.py", line 169, in <module>
+    main()
+  File "../main.py", line 150, in main
+    text_model([train_ds,val_ds,test_ds])
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/TextFeatureExtractor.py", line 66, in forward
+    outputs_text = self.textModel(**encoded_input)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 1142, in forward
+    encoder_outputs = self.encoder(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 695, in forward
+    layer_outputs = layer_module(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 585, in forward
+    self_attention_outputs = self.attention(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 515, in forward
+    self_outputs = self.self(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 440, in forward
+    attn_output = torch.nn.functional.scaled_dot_product_attention(
+KeyboardInterrupt

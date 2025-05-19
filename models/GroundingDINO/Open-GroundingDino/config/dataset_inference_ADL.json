@@ -1,0 +1,11 @@
+{
+    "val": [
+      {
+        "root": "/dataset/rgb_frames",
+        "anno": "/workspace/tfg_hhernandez/models/GroundingDINO/Open-GroundingDino/ADL/Key_frames_Annotated.json",
+        "label_map": null,
+        "dataset_mode": "coco"
+      }
+    ]
+  }
+  

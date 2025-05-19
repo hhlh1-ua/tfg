@@ -1,0 +1,16 @@
+{"time":"2025-04-14T06:38:17.275411479Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250414_063817-zadmaytx/logs/debug-core.log"}
+{"time":"2025-04-14T06:38:17.384200435Z","level":"INFO","msg":"created new stream","id":"zadmaytx"}
+{"time":"2025-04-14T06:38:17.384271262Z","level":"INFO","msg":"stream: started","id":"zadmaytx"}
+{"time":"2025-04-14T06:38:17.384336805Z","level":"INFO","msg":"writer: Do: started","stream_id":"zadmaytx"}
+{"time":"2025-04-14T06:38:17.384395792Z","level":"INFO","msg":"sender: started","stream_id":"zadmaytx"}
+{"time":"2025-04-14T06:38:17.384476968Z","level":"INFO","msg":"handler: started","stream_id":"zadmaytx"}
+{"time":"2025-04-14T06:38:17.677173967Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T09:20:18.365224253Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/objs_and_additional/zadmaytx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-14T10:08:13.31996305Z","level":"INFO","msg":"stream: closing","id":"zadmaytx"}
+{"time":"2025-04-14T10:08:13.320035583Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T10:08:13.321165984Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T10:08:14.003788248Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T10:08:14.195565886Z","level":"INFO","msg":"handler: closed","stream_id":"zadmaytx"}
+{"time":"2025-04-14T10:08:14.195607906Z","level":"INFO","msg":"writer: Close: closed","stream_id":"zadmaytx"}
+{"time":"2025-04-14T10:08:14.195625276Z","level":"INFO","msg":"sender: closed","stream_id":"zadmaytx"}
+{"time":"2025-04-14T10:08:14.196818337Z","level":"INFO","msg":"stream: closed","id":"zadmaytx"}

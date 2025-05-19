@@ -1,0 +1,218 @@
+Some weights of ViTModel were not initialized from the model checkpoint at google/vit-base-patch16-224 and are newly initialized: ['vit.pooler.dense.bias', 'vit.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Extracting object features...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+000390
+000390
+000390
+000420
+000420
+000420
+000450
+000450
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+000450
+000480
+000480
+000480
+000510
+000510
+000510
+000540
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 2
+000540
+000540
+000570
+000570
+000570
+000600
+000600
+000600
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 3
+000630
+000630
+000630
+000660
+000660
+000660
+000690
+000690
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 4
+000690
+000720
+000720
+000720
+000750
+000750
+000750
+000780
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 5
+000780
+000780
+000810
+000810
+000810
+000840
+000840
+000840
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 6
+000870
+000870
+000870
+000900
+000900
+000900
+000930
+000930
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 7
+000930
+000960
+000960
+000960
+000990
+000990
+000990
+001020
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 8
+001020
+001020
+001050
+001050
+001050
+001080
+001080
+001080
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 9
+001110
+001110
+001110
+001140
+001140
+001140
+001170
+001170
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 10
+001170
+001200
+001200
+001200
+001230
+001230
+001230
+001260
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 11
+001260
+001260
+001290
+001290
+001290
+001320
+001320
+001320
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 12
+001350
+001350
+001350
+001380
+001380
+001380
+001410
+001410
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 13
+001410
+001440
+001440
+001440
+001470
+001470
+001470
+001500
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 14
+001500
+001500
+001530
+001530
+001530
+001560
+001560
+001560
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 15
+001590
+001590
+001590
+001620
+001620
+001620
+001650
+001650
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 16
+001650
+001680
+001680
+001680
+001710
+001710
+001710
+001740
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 17
+001740
+001740
+001770
+001770
+001770
+001800
+001800
+001800
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 18
+001830
+001830
+001830
+001860
+001860
+001860
+001890
+001890
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 19
+001890
+001920
+001920
+001920
+001950
+001950
+001950
+001980
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 20
+001980
+001980
+Traceback (most recent call last):
+  File "../main.py", line 169, in <module>
+    main()
+  File "../main.py", line 146, in main
+    object_model([train_ds,val_ds,test_ds])
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectFeatureExtractor.py", line 55, in forward
+    inputs = self.image_processor(images=crops, return_tensors="pt")
+  File "/usr/local/lib/python3.8/dist-packages/transformers/image_processing_utils.py", line 41, in __call__
+    return self.preprocess(images, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/vit/image_processing_vit_fast.py", line 285, in preprocess
+    transformed_images = [transforms(image) for image in images]
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/vit/image_processing_vit_fast.py", line 285, in <listcomp>
+    transformed_images = [transforms(image) for image in images]
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/transforms.py", line 95, in __call__
+    img = t(img)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/transforms.py", line 354, in forward
+    return F.resize(img, self.size, self.interpolation, self.max_size, self.antialias)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/functional.py", line 470, in resize
+    return F_t.resize(img, size=output_size, interpolation=interpolation.value, antialias=antialias)
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/_functional_tensor.py", line 460, in resize
+    img, need_cast, need_squeeze, out_dtype = _cast_squeeze_in(img, [torch.float32, torch.float64])
+  File "/usr/local/lib/python3.8/dist-packages/torchvision/transforms/_functional_tensor.py", line 526, in _cast_squeeze_in
+    img = img.to(req_dtype)
+KeyboardInterrupt

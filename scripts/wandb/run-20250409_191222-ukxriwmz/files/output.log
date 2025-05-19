@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "../main.py", line 80, in <module>
+    main()
+  File "../main.py", line 65, in main
+    train_model(config,train_ds,val_ds)
+  File "/workspace/tfg_hhernandez/utils/train.py", line 19, in train_model
+    model = Model(config, input_dim=768, output_dim=32, dropout=config.train_params.dropout)
+  File "/workspace/tfg_hhernandez/models/Model.py", line 23, in __init__
+    self. object_detector = ObjectDetectorCreator.instatiate_ObjectDetector(config)
+  File "/workspace/tfg_hhernandez/models/ObjectDetector.py", line 13, in instatiate_ObjectDetector
+    return GDinoDetector(config)
+  File "/workspace/tfg_hhernandez/models/ObjectDetector.py", line 95, in __init__
+    self.bboxes=torch.load(bboxes_path)
+  File "/usr/local/lib/python3.8/dist-packages/torch/serialization.py", line 1025, in load
+    return _load(opened_zipfile,
+  File "/usr/local/lib/python3.8/dist-packages/torch/serialization.py", line 1446, in _load
+    result = unpickler.load()
+  File "/usr/local/lib/python3.8/dist-packages/torch/serialization.py", line 1416, in persistent_load
+    typed_storage = load_tensor(dtype, nbytes, key, _maybe_decode_ascii(location))
+  File "/usr/local/lib/python3.8/dist-packages/torch/serialization.py", line 1374, in load_tensor
+    if torch._guards.detect_fake_mode(None) is not None:
+  File "/usr/local/lib/python3.8/dist-packages/torch/_guards.py", line 834, in detect_fake_mode
+    from torch._subclasses.fake_tensor import FakeTensor, FakeTensorMode
+KeyboardInterrupt

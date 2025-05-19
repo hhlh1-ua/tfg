@@ -1,0 +1,23 @@
+2025-05-07 09:01:07,260 INFO    MainThread:38 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-05-07 09:01:07,260 INFO    MainThread:38 [wandb_setup.py:_flush():68] Configure stats pid to 38
+2025-05-07 09:01:07,260 INFO    MainThread:38 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2025-05-07 09:01:07,260 INFO    MainThread:38 [wandb_setup.py:_flush():68] Loading settings from /workspace/tfg_hhernandez/scripts/wandb/settings
+2025-05-07 09:01:07,261 INFO    MainThread:38 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-05-07 09:01:07,261 INFO    MainThread:38 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /workspace/tfg_hhernandez/scripts/wandb/run-20250507_090107-r3uaofvf/logs/debug.log
+2025-05-07 09:01:07,261 INFO    MainThread:38 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /workspace/tfg_hhernandez/scripts/wandb/run-20250507_090107-r3uaofvf/logs/debug-internal.log
+2025-05-07 09:01:07,262 INFO    MainThread:38 [wandb_init.py:init():756] calling init triggers
+2025-05-07 09:01:07,262 INFO    MainThread:38 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'seed': 0, 'data': DotMap(annotations_path='/workspace/tfg_hhernandez/annotations', data_path='/dataset/', batch_size=64, workers=4, down_sampling_rate=5, train=['P_03', 'P_04', 'P_05', 'P_06', 'P_09', 'P_10', 'P_12', 'P_13', 'P_14', 'P_18', 'P_19', 'P_20'], val=['P_01', 'P_02', 'P_16', 'P_17'], test=['P_07', 'P_08', 'P_11', 'P_15']), 'video_model': DotMap(block_size=16, name='timesformer', extract_features=False), 'model': DotMap(multimodal=True, fusion_strategy='concat', get_text_features=True, get_object_features=True), 'object_detector': DotMap(max_detected_objects=4, object_recopilation_strategy='middleframe', object_model='GT', object_encoder='vit', extract_features=False, embedding_size=768), 'text_encoder': DotMap(text_model='Bert', extract_features=True, embedding_size=768), 'classifier': DotMap(hidden_dims=[512], train=False, test=False, train_weights_path='None', test_weights_path='/results/multimodal/timesformer/GT/objs_text/middle_frame/concat/vit_bert/best_epoch.pt'), 'train_params': DotMap(lr=0.0005, epochs=20, dropout=0.1, weight_decay=0.1, save_every=20, optimizer='adamw'), 'save_dir': '/results/multimodal/timesformer/GT/objs_text/middle_frame/concat/vit_bert/', '_wandb': {}}
+2025-05-07 09:01:07,262 INFO    MainThread:38 [wandb_init.py:init():789] starting backend
+2025-05-07 09:01:07,494 INFO    MainThread:38 [wandb_init.py:init():793] sending inform_init request
+2025-05-07 09:01:07,516 INFO    MainThread:38 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-07 09:01:07,517 INFO    MainThread:38 [wandb_init.py:init():808] backend started and connected
+2025-05-07 09:01:07,525 INFO    MainThread:38 [wandb_init.py:init():901] updated telemetry
+2025-05-07 09:01:07,553 INFO    MainThread:38 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-05-07 09:01:08,037 INFO    MainThread:38 [wandb_init.py:init():994] starting run threads in backend
+2025-05-07 09:01:08,322 INFO    MainThread:38 [wandb_run.py:_console_start():2385] atexit reg
+2025-05-07 09:01:08,322 INFO    MainThread:38 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-05-07 09:01:08,322 INFO    MainThread:38 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-05-07 09:01:08,322 INFO    MainThread:38 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-05-07 09:01:08,327 INFO    MainThread:38 [wandb_init.py:init():1036] run started, returning control to user process
+2025-05-07 09:02:01,577 WARNING MsgRouterThr:38 [router.py:message_loop():75] message_loop has been closed

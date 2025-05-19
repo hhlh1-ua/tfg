@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "../main.py", line 80, in <module>
+    main()
+  File "../main.py", line 45, in main
+    train_ds  = ADLDataset(config,'train')
+  File "/workspace/tfg_hhernandez/dataset/ADL.py", line 50, in __init__
+    self.process_sequences()
+  File "/workspace/tfg_hhernandez/dataset/ADL.py", line 398, in process_sequences
+    self.sequences = self.get_sequeces()
+  File "/workspace/tfg_hhernandez/dataset/ADL.py", line 217, in get_sequeces
+    frame_str = f"{frame:06}.jpg"  # Los nombres de los frames tienen 6 dígitos
+KeyboardInterrupt

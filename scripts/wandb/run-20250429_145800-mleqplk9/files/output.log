@@ -1,0 +1,8 @@
+/usr/local/lib/python3.8/dist-packages/torch/nn/modules/transformer.py:306: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+loading checkpoint '/results/multimodal/timesformer/objs_text/first_frame/concat/vit_bert/best_epoch.pt'
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:01<00:00,  1.77it/s]
+***** Train Stats *******
+Top 1 Accuracy: 0.5529411764705883
+Top 5 Accuracy: 0.8117647058823529
+Mean Loss: 0.1214750348645098

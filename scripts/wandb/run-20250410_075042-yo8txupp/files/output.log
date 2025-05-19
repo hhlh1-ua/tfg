@@ -1,0 +1,92 @@
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:43<00:00,  4.08s/it]
+Training loss: 0.16817192778442847
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.52s/it]
+[0] Validation: Top1 (0.34545454545454546), Top5 (0.6727272727272727), Mean Loss (0.12720963683995334), Best Top1 (0.34545454545454546), Best Top5 (0.6727272727272727)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:40<00:00,  4.05s/it]
+Training loss: 0.07725113863595809
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:06<00:00,  3.50s/it]
+[1] Validation: Top1 (0.4090909090909091), Top5 (0.7454545454545455), Mean Loss (0.11390704634514721), Best Top1 (0.4090909090909091), Best Top5 (0.7454545454545455)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:40<00:00,  4.04s/it]
+Training loss: 0.04513457440065615
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.54s/it]
+[2] Validation: Top1 (0.42727272727272725), Top5 (0.7454545454545455), Mean Loss (0.1144426783377474), Best Top1 (0.42727272727272725), Best Top5 (0.7454545454545455)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:40<00:00,  4.04s/it]
+Training loss: 0.028028012338009747
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.53s/it]
+[3] Validation: Top1 (0.43636363636363634), Top5 (0.7090909090909091), Mean Loss (0.11761976737867702), Best Top1 (0.43636363636363634), Best Top5 (0.7090909090909091)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:41<00:00,  4.06s/it]
+Training loss: 0.019671894666371925
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.52s/it]
+[4] Validation: Top1 (0.43636363636363634), Top5 (0.7181818181818181), Mean Loss (0.12480856031179428), Best Top1 (0.43636363636363634), Best Top5 (0.7181818181818181)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:40<00:00,  4.05s/it]
+Training loss: 0.014911018848193415
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.51s/it]
+[5] Validation: Top1 (0.44545454545454544), Top5 (0.7272727272727273), Mean Loss (0.12942725149067966), Best Top1 (0.44545454545454544), Best Top5 (0.7272727272727273)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:41<00:00,  4.05s/it]
+Training loss: 0.011902350509031252
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:06<00:00,  3.49s/it]
+[6] Validation: Top1 (0.43636363636363634), Top5 (0.7272727272727273), Mean Loss (0.1357442171736197), Best Top1 (0.44545454545454544), Best Top5 (0.7272727272727273)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:39<00:00,  4.04s/it]
+Training loss: 0.009802899925470954
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.50s/it]
+[7] Validation: Top1 (0.42727272727272725), Top5 (0.7272727272727273), Mean Loss (0.13982738310640508), Best Top1 (0.44545454545454544), Best Top5 (0.7272727272727273)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:40<00:00,  4.05s/it]
+Training loss: 0.008229208837329137
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.52s/it]
+[8] Validation: Top1 (0.44545454545454544), Top5 (0.7272727272727273), Mean Loss (0.14431602548469197), Best Top1 (0.44545454545454544), Best Top5 (0.7272727272727273)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:41<00:00,  4.06s/it]
+Training loss: 0.007034658571949812
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:06<00:00,  3.50s/it]
+[9] Validation: Top1 (0.43636363636363634), Top5 (0.7181818181818181), Mean Loss (0.14923979382623326), Best Top1 (0.44545454545454544), Best Top5 (0.7272727272727273)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:41<00:00,  4.06s/it]
+Training loss: 0.006090266615942572
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.53s/it]
+[10] Validation: Top1 (0.44545454545454544), Top5 (0.7454545454545455), Mean Loss (0.15013226826082576), Best Top1 (0.44545454545454544), Best Top5 (0.7454545454545455)
+100%|████████████████████████████████████████████████████████████████████████████████████████████████| 99/99 [06:41<00:00,  4.05s/it]
+Training loss: 0.005325882140584666
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:07<00:00,  3.53s/it]
+[11] Validation: Top1 (0.42727272727272725), Top5 (0.7363636363636363), Mean Loss (0.1560279209505428), Best Top1 (0.44545454545454544), Best Top5 (0.7454545454545455)
+ 41%|███████████████████████████████████████▊                                                        | 41/99 [02:47<03:56,  4.08s/it]Exception ignored in: <function _MultiProcessingDataLoaderIter.__del__ at 0x7fc258f9eca0>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py", line 1479, in __del__
+    self._shutdown_workers()
+  File "/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py", line 1443, in _shutdown_workers
+    w.join(timeout=_utils.MP_STATUS_CHECK_INTERVAL)
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+  File "/usr/lib/python3.8/multiprocessing/popen_fork.py", line 44, in wait
+    if not wait([self.sentinel], timeout):
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/usr/lib/python3.8/selectors.py", line 415, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt:
+ 41%|███████████████████████████████████████▊                                                        | 41/99 [02:50<04:01,  4.16s/it]
+Traceback (most recent call last):
+  File "../main.py", line 80, in <module>
+    main()
+  File "../main.py", line 65, in main
+    train_model(config,train_ds,val_ds)
+  File "/workspace/tfg_hhernandez/utils/train.py", line 102, in train_model
+    output = model(features_noisy, frames)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/Model.py", line 34, in forward
+    object_features=self.ObjFTExtractor(frames,max_objects=self.max_detected_objs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectEmbeddingsGetter.py", line 65, in forward
+    object_features = self.objects_in_all_frames(frames_list=frames, max_objects=max_objects)
+  File "/workspace/tfg_hhernandez/models/ObjectEmbeddingsGetter.py", line 94, in objects_in_all_frames
+    bboxes = self.obj_detector(frame)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/ObjectDetector.py", line 113, in forward
+    if confidence < 0.35:
+KeyboardInterrupt

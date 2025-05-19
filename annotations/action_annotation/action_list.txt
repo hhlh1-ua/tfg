@@ -1,0 +1,34 @@
+actions(1).txt  = 'combing hair';
+actions(2).txt  = 'make up';
+actions(3).txt  = 'brushing teeth';
+actions(4).txt  = 'dental floss';
+actions(5).txt  = 'washing hands/face';
+actions(6).txt  = 'drying hands/face';
+actions(7).txt  = 'enter/leave room';  %% not annotated.
+actions(8).txt  = 'adjusting thermostat';
+actions(9).txt  = 'laundry';
+actions(10).txt = 'washing dishes';
+actions(11).txt = 'moving dishes';
+actions(12).txt = 'making tea';
+actions(13).txt = 'making coffee';
+actions(14).txt = 'drinking water/bottle';
+actions(15).txt = 'drinking water/tap';
+actions(16).txt = 'making hot food';
+actions(17).txt = 'making cold food/snack';
+actions(18).txt = 'eating food/snack';
+actions(19).txt = 'mopping in kitchen';
+actions(20).txt = 'vacuuming';
+actions(21).txt = 'taking pills';
+actions(22).txt = 'watching tv';
+actions(23).txt = 'using computer';
+actions(24).txt = 'using cell';
+actions(25).txt = 'making bed';
+actions(26).txt = 'cleaning house';
+actions(27).txt = 'reading book';
+actions(28).txt = 'using_mouth_wash';
+actions(29).txt = 'writing';
+actions(30).txt = 'putting on shoes/sucks';
+actions(31).txt = 'drinking coffee/tea';
+actions(32).txt = 'grabbing water from tap';
+
+

@@ -1,0 +1,15 @@
+{"time":"2025-03-24T19:43:11.984097403Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/workspace/tfg_hhernandez/wandb/run-20250324_194311-tuiskqmx/logs/debug-core.log"}
+{"time":"2025-03-24T19:43:12.090314282Z","level":"INFO","msg":"created new stream","id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.090355399Z","level":"INFO","msg":"stream: started","id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.090442431Z","level":"INFO","msg":"handler: started","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.090476628Z","level":"INFO","msg":"sender: started","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.090430474Z","level":"INFO","msg":"writer: Do: started","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.383120676Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T19:43:12.879476063Z","level":"INFO","msg":"stream: closing","id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:12.879517966Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-24T19:43:12.880340398Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-24T19:43:13.74572788Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-24T19:43:13.932033899Z","level":"INFO","msg":"handler: closed","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:13.932096457Z","level":"INFO","msg":"sender: closed","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:13.932087413Z","level":"INFO","msg":"writer: Close: closed","stream_id":"tuiskqmx"}
+{"time":"2025-03-24T19:43:13.932775857Z","level":"INFO","msg":"stream: closed","id":"tuiskqmx"}

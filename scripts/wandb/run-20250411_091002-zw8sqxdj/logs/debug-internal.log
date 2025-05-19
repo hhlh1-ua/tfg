@@ -1,0 +1,16 @@
+{"time":"2025-04-11T09:10:02.612205969Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250411_091002-zw8sqxdj/logs/debug-core.log"}
+{"time":"2025-04-11T09:10:02.720511716Z","level":"INFO","msg":"created new stream","id":"zw8sqxdj"}
+{"time":"2025-04-11T09:10:02.720578215Z","level":"INFO","msg":"stream: started","id":"zw8sqxdj"}
+{"time":"2025-04-11T09:10:02.720579379Z","level":"INFO","msg":"writer: Do: started","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T09:10:02.720671322Z","level":"INFO","msg":"handler: started","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T09:10:02.720616658Z","level":"INFO","msg":"sender: started","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T09:10:03.039113728Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-11T10:39:42.624854291Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/ActionRecognition/zw8sqxdj/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-11T11:19:44.087449477Z","level":"INFO","msg":"stream: closing","id":"zw8sqxdj"}
+{"time":"2025-04-11T11:19:44.087534375Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-11T11:19:44.088468844Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-11T11:19:44.666075769Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-11T11:19:44.940422752Z","level":"INFO","msg":"handler: closed","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T11:19:44.940474081Z","level":"INFO","msg":"writer: Close: closed","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T11:19:44.940490961Z","level":"INFO","msg":"sender: closed","stream_id":"zw8sqxdj"}
+{"time":"2025-04-11T11:19:44.9426989Z","level":"INFO","msg":"stream: closed","id":"zw8sqxdj"}

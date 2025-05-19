@@ -1,0 +1,1611 @@
+Error during conversion: ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read)))
+Extracting additional object features...
+Extracting additional object features for the train split ...
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 0
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 1
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 2
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 3
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 4
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 5
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 6
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 7
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 8
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 9
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 10
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 11
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 12
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 13
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 14
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 15
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 16
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 17
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 18
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 19
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 20
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 21
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 22
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 23
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 24
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 25
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 26
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 27
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 28
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 29
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 30
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 31
+video: P_03, start frame:389, end frame:3086, actions: ['dental floss'], selected frames:16, block number: 32
+video: P_03, start frame:3536, end frame:3686, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 0
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 1
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 2
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 3
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 4
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 5
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 6
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 7
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 8
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 9
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 10
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 11
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 12
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 13
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 14
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 15
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 16
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 17
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 18
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 19
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 20
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 21
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 22
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 23
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 24
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 25
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 26
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 27
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 28
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 29
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 30
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 31
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 32
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 33
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 34
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 35
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 36
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 37
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 38
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 39
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 40
+video: P_03, start frame:3716, end frame:7132, actions: ['brushing teeth'], selected frames:16, block number: 41
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 1
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 2
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 3
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 4
+video: P_03, start frame:7162, end frame:7642, actions: ['washing hands/face'], selected frames:16, block number: 5
+video: P_03, start frame:7642, end frame:7792, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 0
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 1
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 2
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 3
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 4
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 5
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 6
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 7
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 8
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 9
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 10
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 11
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 12
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 13
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 14
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 15
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 16
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 17
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 18
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 19
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 20
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 21
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 22
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 23
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 24
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 25
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 26
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 27
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 28
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 29
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 30
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 31
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 32
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 33
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 34
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 35
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 36
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 37
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 38
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 39
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 40
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 41
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 42
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 43
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 44
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 45
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 46
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 47
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 48
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 49
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 50
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 51
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 52
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 53
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 54
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 55
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 56
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 57
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 58
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 59
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 60
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 61
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 62
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 63
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 64
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 65
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 66
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 67
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 68
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 69
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 70
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 71
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 72
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 73
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 74
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 75
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 76
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 77
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 78
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 79
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 80
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 81
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 82
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 83
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 84
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 85
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 86
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 87
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 88
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 89
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 90
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 91
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 92
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 93
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 94
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 95
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 96
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 97
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 98
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 99
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 100
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 101
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 102
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 103
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 104
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 105
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 106
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 107
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 108
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 109
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 110
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 111
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 112
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 113
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 114
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 115
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 116
+video: P_03, start frame:8271, end frame:17712, actions: ['washing dishes'], selected frames:16, block number: 117
+video: P_03, start frame:17742, end frame:18101, actions: ['moving dishes'], selected frames:16, block number: 0
+video: P_03, start frame:17742, end frame:18101, actions: ['moving dishes'], selected frames:16, block number: 1
+video: P_03, start frame:17742, end frame:18101, actions: ['moving dishes'], selected frames:16, block number: 2
+video: P_03, start frame:17742, end frame:18101, actions: ['moving dishes'], selected frames:16, block number: 3
+video: P_03, start frame:18341, end frame:18551, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:18341, end frame:18551, actions: ['drying hands/face'], selected frames:16, block number: 1
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 0
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 1
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 2
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 3
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 4
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 5
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 6
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 7
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 8
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 9
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 10
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 11
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 12
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 13
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 14
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 15
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 16
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 17
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 18
+video: P_03, start frame:18671, end frame:20289, actions: ['making cold food/snack'], selected frames:16, block number: 19
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 0
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 1
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 2
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 3
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 4
+video: P_03, start frame:20829, end frame:21338, actions: ['making tea'], selected frames:16, block number: 5
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 1
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 2
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 3
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 4
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 5
+video: P_03, start frame:21578, end frame:22177, actions: ['washing hands/face'], selected frames:16, block number: 6
+video: P_03, start frame:22177, end frame:22447, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:22177, end frame:22447, actions: ['drying hands/face'], selected frames:16, block number: 1
+video: P_03, start frame:22177, end frame:22447, actions: ['drying hands/face'], selected frames:16, block number: 2
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 0
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 1
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 2
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 3
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 4
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 5
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 6
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 7
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 8
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 9
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 10
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 11
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 12
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 13
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 14
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 15
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 16
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 17
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 18
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 19
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 20
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 21
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 22
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 23
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 24
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 25
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 26
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 27
+video: P_03, start frame:23016, end frame:25414, actions: ['making tea'], selected frames:16, block number: 28
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 0
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 1
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 2
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 3
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 4
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 5
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 6
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 7
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 8
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 9
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 10
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 11
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 12
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 13
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 14
+video: P_03, start frame:25594, end frame:26913, actions: ['drinking water/bottle'], selected frames:16, block number: 15
+video: P_03, start frame:26913, end frame:27152, actions: ['adjusting thermostat', 'drinking water/bottle'], selected frames:16, block number: 0
+video: P_03, start frame:26913, end frame:27152, actions: ['adjusting thermostat', 'drinking water/bottle'], selected frames:16, block number: 1
+video: P_03, start frame:26913, end frame:27152, actions: ['adjusting thermostat', 'drinking water/bottle'], selected frames:16, block number: 2
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 0
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 1
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 2
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 3
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 4
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 5
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 6
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 7
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 8
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 9
+video: P_03, start frame:27152, end frame:28081, actions: ['drinking water/bottle'], selected frames:16, block number: 10
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 0
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 1
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 2
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 3
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 4
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 5
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 6
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 7
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 8
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 9
+video: P_03, start frame:28081, end frame:28980, actions: ['washing dishes'], selected frames:16, block number: 10
+video: P_03, start frame:29010, end frame:29340, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:29010, end frame:29340, actions: ['drying hands/face'], selected frames:16, block number: 1
+video: P_03, start frame:29010, end frame:29340, actions: ['drying hands/face'], selected frames:16, block number: 2
+video: P_03, start frame:29010, end frame:29340, actions: ['drying hands/face'], selected frames:16, block number: 3
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 0
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 1
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 2
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 3
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 4
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 5
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 6
+video: P_03, start frame:29670, end frame:30329, actions: ['making tea'], selected frames:16, block number: 7
+video: P_03, start frame:30329, end frame:30539, actions: ['making tea', 'washing dishes'], selected frames:16, block number: 0
+video: P_03, start frame:30329, end frame:30539, actions: ['making tea', 'washing dishes'], selected frames:16, block number: 1
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 0
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 1
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 2
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 3
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 4
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 5
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 6
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 7
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 8
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 9
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 10
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 11
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 12
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 13
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 14
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 15
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 16
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 17
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 18
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 19
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 20
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 21
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 22
+video: P_03, start frame:30539, end frame:32517, actions: ['making tea'], selected frames:16, block number: 23
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 0
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 1
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 2
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 3
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 4
+video: P_03, start frame:32547, end frame:33056, actions: ['drinking coffee/tea'], selected frames:16, block number: 5
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 0
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 1
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 2
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 3
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 4
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 5
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 6
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 7
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 8
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 9
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 10
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 11
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 12
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 13
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 14
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 15
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 16
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 17
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 18
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 19
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 20
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 21
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 22
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 23
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 24
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 25
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 26
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 27
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 28
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 29
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 30
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 31
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 32
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 33
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 34
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 35
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 36
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 37
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 38
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 39
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 40
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 41
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 42
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 43
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 44
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 45
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 46
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 47
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 48
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 49
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 50
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 51
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 52
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 53
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 54
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 55
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 56
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 57
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 58
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 59
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 60
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 61
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 62
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 63
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 64
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 65
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 66
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 67
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 68
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 69
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 70
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 71
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 72
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 73
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 74
+video: P_03, start frame:33056, end frame:39200, actions: ['using computer'], selected frames:16, block number: 75
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 0
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 1
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 2
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 3
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 4
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 5
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 6
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 7
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 8
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 9
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 10
+video: P_03, start frame:39590, end frame:40549, actions: ['taking pills'], selected frames:16, block number: 11
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 0
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 1
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 2
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 3
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 4
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 5
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 6
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 7
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 8
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 9
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 10
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 11
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 12
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 13
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 14
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 15
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 16
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 17
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 18
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 19
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 20
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 21
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 22
+video: P_03, start frame:40579, end frame:42557, actions: ['laundry'], selected frames:16, block number: 23
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 0
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 1
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 2
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 3
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 4
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 5
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 6
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 7
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 8
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 9
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 10
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 11
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 12
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 13
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 14
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 15
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 16
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 17
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 18
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 19
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 20
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 21
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 22
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 23
+video: P_03, start frame:42797, end frame:44835, actions: ['using cell'], selected frames:16, block number: 24
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 0
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 1
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 2
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 3
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 4
+video: P_03, start frame:45014, end frame:45494, actions: ['reading book'], selected frames:16, block number: 5
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 0
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 1
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 2
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 3
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 4
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 5
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 6
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 7
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 8
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 9
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 10
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 11
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 12
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 13
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 14
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 15
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 16
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 17
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 18
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 19
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 20
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 21
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 22
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 23
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 24
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 25
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 26
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 27
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 28
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 29
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 30
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 31
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 32
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 33
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 34
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 35
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 36
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 37
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 38
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 39
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 40
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 41
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 42
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 43
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 44
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 45
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 46
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 47
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 48
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 49
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 50
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 51
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 52
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 53
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 54
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 55
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 56
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 57
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 58
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 59
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 60
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 61
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 62
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 63
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 64
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 65
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 66
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 67
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 68
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 69
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 70
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 71
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 72
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 73
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 74
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 75
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 76
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 77
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 78
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 79
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 80
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 81
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 82
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 83
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 84
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 85
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 86
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 87
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 88
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 89
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 90
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 91
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 92
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 93
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 94
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 95
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 96
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 97
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 98
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 99
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 100
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 101
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 102
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 103
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 104
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 105
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 106
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 107
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 108
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 109
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 110
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 111
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 112
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 113
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 114
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 115
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 116
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 117
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 118
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 119
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 120
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 121
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 122
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 123
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 124
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 125
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 126
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 127
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 128
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 129
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 130
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 131
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 132
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 133
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 134
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 135
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 136
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 137
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 138
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 139
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 140
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 141
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 142
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 143
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 144
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 145
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 146
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 147
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 148
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 149
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 150
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 151
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 152
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 153
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 154
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 155
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 156
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 157
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 158
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 159
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 160
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 161
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 162
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 163
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 164
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 165
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 166
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 167
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 168
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 169
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 170
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 171
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 172
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 173
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 174
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 175
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 176
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 177
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 178
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 179
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 180
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 181
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 182
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 183
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 184
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 185
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 186
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 187
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 188
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 189
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 190
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 191
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 192
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 193
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 194
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 195
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 196
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 197
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 198
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 199
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 200
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 201
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 202
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 203
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 204
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 205
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 206
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 207
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 208
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 209
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 210
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 211
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 212
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 213
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 214
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 215
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 216
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 217
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 218
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 219
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 220
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 221
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 222
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 223
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 224
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 225
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 226
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 227
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 228
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 229
+video: P_03, start frame:45494, end frame:63985, actions: ['reading book', 'writing'], selected frames:16, block number: 230
+video: P_03, start frame:64165, end frame:64585, actions: ['combing hair'], selected frames:16, block number: 0
+video: P_03, start frame:64165, end frame:64585, actions: ['combing hair'], selected frames:16, block number: 1
+video: P_03, start frame:64165, end frame:64585, actions: ['combing hair'], selected frames:16, block number: 2
+video: P_03, start frame:64165, end frame:64585, actions: ['combing hair'], selected frames:16, block number: 3
+video: P_03, start frame:64165, end frame:64585, actions: ['combing hair'], selected frames:16, block number: 4
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 0
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 1
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 2
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 3
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 4
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 5
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 6
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 7
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 8
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 9
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 10
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 11
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 12
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 13
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 14
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 15
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 16
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 17
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 18
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 19
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 20
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 21
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 22
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 23
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 24
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 25
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 26
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 27
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 28
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 29
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 30
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 31
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 32
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 33
+video: P_03, start frame:64974, end frame:67792, actions: ['make up'], selected frames:16, block number: 34
+video: P_03, start frame:67852, end frame:67941, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:67941, end frame:68061, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 0
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 1
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 2
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 3
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 4
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 5
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 6
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 7
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 8
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 9
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 10
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 11
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 12
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 13
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 14
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 15
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 16
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 17
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 18
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 19
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 20
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 21
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 22
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 23
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 24
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 25
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 26
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 27
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 28
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 29
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 30
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 31
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 32
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 33
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 34
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 35
+video: P_03, start frame:68121, end frame:71088, actions: ['laundry'], selected frames:16, block number: 36
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 0
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 1
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 2
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 3
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 4
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 5
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 6
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 7
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 8
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 9
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 10
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 11
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 12
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 13
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 14
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 15
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 16
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 17
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 18
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 19
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 20
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 21
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 22
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 23
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 24
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 25
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 26
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 27
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 28
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 29
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 30
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 31
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 32
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 33
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 34
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 35
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 36
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 37
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 38
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 39
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 40
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 41
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 42
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 43
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 44
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 45
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 46
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 47
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 48
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 49
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 50
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 51
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 52
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 53
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 54
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 55
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 56
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 57
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 58
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 59
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 60
+video: P_04, start frame:59, end frame:5034, actions: ['brushing teeth'], selected frames:16, block number: 61
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 1
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 2
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 3
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 4
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 5
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 6
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 7
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 8
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 9
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 10
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 11
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 12
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 13
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 14
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 15
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 16
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 17
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 18
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 19
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 20
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 21
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 22
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 23
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 24
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 25
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 26
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 27
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 28
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 29
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 30
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 31
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 32
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 33
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 34
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 35
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 36
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 37
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 38
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 39
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 40
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 41
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 42
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 43
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 44
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 45
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 46
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 47
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 48
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 49
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 50
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 51
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 52
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 53
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 54
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 55
+video: P_04, start frame:5064, end frame:9650, actions: ['washing hands/face'], selected frames:16, block number: 56
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 1
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 2
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 3
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 4
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 5
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 6
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 7
+video: P_04, start frame:9650, end frame:10369, actions: ['drying hands/face'], selected frames:16, block number: 8
+video: P_04, start frame:10369, end frame:10639, actions: ['drying hands/face', 'make up'], selected frames:16, block number: 0
+video: P_04, start frame:10369, end frame:10639, actions: ['drying hands/face', 'make up'], selected frames:16, block number: 1
+video: P_04, start frame:10369, end frame:10639, actions: ['drying hands/face', 'make up'], selected frames:16, block number: 2
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 0
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 1
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 2
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 3
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 4
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 5
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 6
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 7
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 8
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 9
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 10
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 11
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 12
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 13
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 14
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 15
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 16
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 17
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 18
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 19
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 20
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 21
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 22
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 23
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 24
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 25
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 26
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 27
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 28
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 29
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 30
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 31
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 32
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 33
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 34
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 35
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 36
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 37
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 38
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 39
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 40
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 41
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 42
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 43
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 44
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 45
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 46
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 47
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 48
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 49
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 50
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 51
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 52
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 53
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 54
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 55
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 56
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 57
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 58
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 59
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 60
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 61
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 62
+video: P_04, start frame:10639, end frame:15794, actions: ['make up'], selected frames:16, block number: 63
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 0
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 1
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 2
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 3
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 4
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 5
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 6
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 7
+video: P_04, start frame:16363, end frame:17142, actions: ['combing hair'], selected frames:16, block number: 8
+video: P_04, start frame:17412, end frame:17562, actions: ['adjusting thermostat'], selected frames:16, block number: 0
+video: P_04, start frame:17742, end frame:18101, actions: ['washing dishes'], selected frames:16, block number: 0
+video: P_04, start frame:17742, end frame:18101, actions: ['washing dishes'], selected frames:16, block number: 1
+video: P_04, start frame:17742, end frame:18101, actions: ['washing dishes'], selected frames:16, block number: 2
+video: P_04, start frame:17742, end frame:18101, actions: ['washing dishes'], selected frames:16, block number: 3
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 0
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 1
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 2
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 3
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 4
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 5
+video: P_04, start frame:18131, end frame:18731, actions: ['making coffee'], selected frames:16, block number: 6
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 0
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 1
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 2
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 3
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 4
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 5
+video: P_04, start frame:18881, end frame:19480, actions: ['grabbing water from tap'], selected frames:16, block number: 6
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 0
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 1
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 2
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 3
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 4
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 5
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 6
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 7
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 8
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 9
+video: P_04, start frame:19900, end frame:20829, actions: ['drinking water/bottle'], selected frames:16, block number: 10
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 0
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 1
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 2
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 3
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 4
+video: P_04, start frame:23346, end frame:23886, actions: ['washing dishes'], selected frames:16, block number: 5
+video: P_04, start frame:24005, end frame:24305, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_04, start frame:24005, end frame:24305, actions: ['washing hands/face'], selected frames:16, block number: 1
+video: P_04, start frame:24005, end frame:24305, actions: ['washing hands/face'], selected frames:16, block number: 2
+video: P_04, start frame:24365, end frame:24485, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 0
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 1
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 2
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 3
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 4
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 5
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 6
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 7
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 8
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 9
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 10
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 11
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 12
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 13
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 14
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 15
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 16
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 17
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 18
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 19
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 20
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 21
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 22
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 23
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 24
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 25
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 26
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 27
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 28
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 29
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 30
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 31
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 32
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 33
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 34
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 35
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 36
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 37
+video: P_04, start frame:24575, end frame:27722, actions: ['making coffee'], selected frames:16, block number: 38
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 0
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 1
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 2
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 3
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 4
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 5
+video: P_04, start frame:27722, end frame:28291, actions: ['drinking coffee/tea'], selected frames:16, block number: 6
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 0
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 1
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 2
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 3
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 4
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 5
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 6
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 7
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 8
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 9
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 10
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 11
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 12
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 13
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 14
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 15
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 16
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 17
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 18
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 19
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 20
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 21
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 22
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 23
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 24
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 25
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 26
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 27
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 28
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 29
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 30
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 31
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 32
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 33
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 34
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 35
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 36
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 37
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 38
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 39
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 40
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 41
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 42
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 43
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 44
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 45
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 46
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 47
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 48
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 49
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 50
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 51
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 52
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 53
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 54
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 55
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 56
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 57
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 58
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 59
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 60
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 61
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 62
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 63
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 64
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 65
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 66
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 67
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 68
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 69
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 70
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 71
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 72
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 73
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 74
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 75
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 76
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 77
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 78
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 79
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 80
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 81
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 82
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 83
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 84
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 85
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 86
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 87
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 88
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 89
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 90
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 91
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 92
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 93
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 94
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 95
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 96
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 97
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 98
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 99
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 100
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 101
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 102
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 103
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 104
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 105
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 106
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 107
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 108
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 109
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 110
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 111
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 112
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 113
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 114
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 115
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 116
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 117
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 118
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 119
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 120
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 121
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 122
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 123
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 124
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 125
+video: P_04, start frame:28291, end frame:38451, actions: ['drinking coffee/tea', 'watching tv'], selected frames:16, block number: 126
+video: P_04, start frame:38451, end frame:38751, actions: ['drinking coffee/tea'], selected frames:16, block number: 0
+video: P_04, start frame:38451, end frame:38751, actions: ['drinking coffee/tea'], selected frames:16, block number: 1
+video: P_04, start frame:38451, end frame:38751, actions: ['drinking coffee/tea'], selected frames:16, block number: 2
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 0
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 1
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 2
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 3
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 4
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 5
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 6
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 7
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 8
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 9
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 10
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 11
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 12
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 13
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 14
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 15
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 16
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 17
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 18
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 19
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 20
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 21
+video: P_04, start frame:38751, end frame:40669, actions: ['drinking coffee/tea', 'using cell'], selected frames:16, block number: 22
+video: P_04, start frame:40669, end frame:41088, actions: ['drinking coffee/tea'], selected frames:16, block number: 0
+video: P_04, start frame:40669, end frame:41088, actions: ['drinking coffee/tea'], selected frames:16, block number: 1
+video: P_04, start frame:40669, end frame:41088, actions: ['drinking coffee/tea'], selected frames:16, block number: 2
+video: P_04, start frame:40669, end frame:41088, actions: ['drinking coffee/tea'], selected frames:16, block number: 3
+video: P_04, start frame:40669, end frame:41088, actions: ['drinking coffee/tea'], selected frames:16, block number: 4
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 0
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 1
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 2
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 3
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 4
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 5
+video: P_04, start frame:41538, end frame:42107, actions: ['taking pills'], selected frames:16, block number: 6
+video: P_04, start frame:42287, end frame:42617, actions: ['drinking coffee/tea'], selected frames:16, block number: 0
+video: P_04, start frame:42287, end frame:42617, actions: ['drinking coffee/tea'], selected frames:16, block number: 1
+video: P_04, start frame:42287, end frame:42617, actions: ['drinking coffee/tea'], selected frames:16, block number: 2
+video: P_04, start frame:42287, end frame:42617, actions: ['drinking coffee/tea'], selected frames:16, block number: 3
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 0
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 1
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 2
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 3
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 4
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 5
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 6
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 7
+video: P_04, start frame:43126, end frame:43876, actions: ['using computer'], selected frames:16, block number: 8
+video: P_04, start frame:43876, end frame:44115, actions: ['using cell', 'using computer'], selected frames:16, block number: 0
+video: P_04, start frame:43876, end frame:44115, actions: ['using cell', 'using computer'], selected frames:16, block number: 1
+video: P_04, start frame:43876, end frame:44115, actions: ['using cell', 'using computer'], selected frames:16, block number: 2
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 0
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 1
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 2
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 3
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 4
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 5
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 6
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 7
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 8
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 9
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 10
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 11
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 12
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 13
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 14
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 15
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 16
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 17
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 18
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 19
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 20
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 21
+video: P_04, start frame:44115, end frame:45973, actions: ['using computer'], selected frames:16, block number: 22
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 0
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 1
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 2
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 3
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 4
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 5
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 6
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 7
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 8
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 9
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 10
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 11
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 12
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 13
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 14
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 15
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 16
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 17
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 18
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 19
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 20
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 21
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 22
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 23
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 24
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 25
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 26
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 27
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 28
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 29
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 30
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 31
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 32
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 33
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 34
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 35
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 36
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 37
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 38
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 39
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 40
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 41
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 42
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 43
+video: P_05, start frame:89, end frame:3716, actions: ['laundry'], selected frames:16, block number: 44
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 0
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 1
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 2
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 3
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 4
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 5
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 6
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 7
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 8
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 9
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 10
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 11
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 12
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 13
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 14
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 15
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 16
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 17
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 18
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 19
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 20
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 21
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 22
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 23
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 24
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 25
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 26
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 27
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 28
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 29
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 30
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 31
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 32
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 33
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 34
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 35
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 36
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 37
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 38
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 39
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 40
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 41
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 42
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 43
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 44
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 45
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 46
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 47
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 48
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 49
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 50
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 51
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 52
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 53
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 54
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 55
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 56
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 57
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 58
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 59
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 60
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 61
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 62
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 63
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 64
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 65
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 66
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 67
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 68
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 69
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 70
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 71
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 72
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 73
+video: P_05, start frame:4195, end frame:10249, actions: ['watching tv'], selected frames:16, block number: 74
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 0
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 1
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 2
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 3
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 4
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 5
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 6
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 7
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 8
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 9
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 10
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 11
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 12
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 13
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 14
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 15
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 16
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 17
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 18
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 19
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 20
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 21
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 22
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 23
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 24
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 25
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 26
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 27
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 28
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 29
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 30
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 31
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 32
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 33
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 34
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 35
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 36
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 37
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 38
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 39
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 40
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 41
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 42
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 43
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 44
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 45
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 46
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 47
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 48
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 49
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 50
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 51
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 52
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 53
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 54
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 55
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 56
+video: P_05, start frame:10549, end frame:15254, actions: ['using computer'], selected frames:16, block number: 57
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 0
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 1
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 2
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 3
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 4
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 5
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 6
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 7
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 8
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 9
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 10
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 11
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 12
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 13
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 14
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 15
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 16
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 17
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 18
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 19
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 20
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 21
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 22
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 23
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 24
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 25
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 26
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 27
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 28
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 29
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 30
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 31
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 32
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 33
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 34
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 35
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 36
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 37
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 38
+video: P_05, start frame:15824, end frame:19030, actions: ['washing hands/face'], selected frames:16, block number: 39
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 0
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 1
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 2
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 3
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 4
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 5
+video: P_05, start frame:19030, end frame:19630, actions: ['drying hands/face'], selected frames:16, block number: 6
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 0
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 1
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 2
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 3
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 4
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 5
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 6
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 7
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 8
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 9
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 10
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 11
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 12
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 13
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 14
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 15
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 16
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 17
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 18
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 19
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 20
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 21
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 22
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 23
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 24
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 25
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 26
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 27
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 28
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 29
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 30
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 31
+video: P_05, start frame:19630, end frame:24545, actions: ['brushing teeth'], selected frames:16, block number: 32
+Traceback (most recent call last):
+  File "../main.py", line 169, in <module>
+    main()
+  File "../main.py", line 150, in main
+    text_model([train_ds,val_ds,test_ds])
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/workspace/tfg_hhernandez/models/TextFeatureExtractor.py", line 66, in forward
+    outputs_text = self.textModel(**encoded_input)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 1142, in forward
+    encoder_outputs = self.encoder(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 695, in forward
+    layer_outputs = layer_module(
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 627, in forward
+    layer_output = apply_chunking_to_forward(
+  File "/usr/local/lib/python3.8/dist-packages/transformers/pytorch_utils.py", line 248, in apply_chunking_to_forward
+    return forward_fn(*input_tensors)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 639, in feed_forward_chunk
+    intermediate_output = self.intermediate(attention_output)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/models/bert/modeling_bert.py", line 540, in forward
+    hidden_states = self.intermediate_act_fn(hidden_states)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/transformers/activations.py", line 78, in forward
+    return self.act(input)
+KeyboardInterrupt

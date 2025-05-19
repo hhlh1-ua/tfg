@@ -1,0 +1,17 @@
+{"time":"2025-04-17T19:20:57.609897234Z","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/workspace/tfg_hhernandez/scripts/wandb/run-20250417_192057-26jl3fyr/logs/debug-core.log"}
+{"time":"2025-04-17T19:20:57.718949999Z","level":"INFO","msg":"created new stream","id":"26jl3fyr"}
+{"time":"2025-04-17T19:20:57.719025071Z","level":"INFO","msg":"stream: started","id":"26jl3fyr"}
+{"time":"2025-04-17T19:20:57.719117123Z","level":"INFO","msg":"writer: Do: started","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:20:57.719168638Z","level":"INFO","msg":"sender: started","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:20:57.719187806Z","level":"INFO","msg":"handler: started","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:20:57.983910254Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-17T19:36:43.701189061Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/tfghhernandez-university-of-alicante/objs_and_additional/26jl3fyr/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-17T19:40:43.251684123Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-04-17T19:49:02.212722455Z","level":"INFO","msg":"stream: closing","id":"26jl3fyr"}
+{"time":"2025-04-17T19:49:02.212812366Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-17T19:49:02.213727528Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-17T19:49:02.764327347Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-17T19:49:02.956689272Z","level":"INFO","msg":"handler: closed","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:49:02.956750102Z","level":"INFO","msg":"writer: Close: closed","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:49:02.956781023Z","level":"INFO","msg":"sender: closed","stream_id":"26jl3fyr"}
+{"time":"2025-04-17T19:49:02.957425233Z","level":"INFO","msg":"stream: closed","id":"26jl3fyr"}
